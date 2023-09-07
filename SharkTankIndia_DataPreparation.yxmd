@@ -1,0 +1,667 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="2023.1">
+  <Nodes>
+    <Node ToolID="1">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="54" y="54" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File RecordLimit="" SearchSubDirs="False" FileFormat="0" OutputFileName="">D:\PowerBI Project\SharkTank Data\Shark Tank India.csv</File>
+          <FormatSpecificOptions>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreErrors>False</IgnoreErrors>
+            <AllowShareWrite>False</AllowShareWrite>
+            <ImportLine>1</ImportLine>
+            <FieldLen>254</FieldLen>
+            <SingleThreadRead>False</SingleThreadRead>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <Delimeter>,</Delimeter>
+            <QuoteRecordBreak>False</QuoteRecordBreak>
+            <CodePage>28591</CodePage>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Shark Tank India.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Season Number" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Season Start" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Season End" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Episode Number" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Episode Title" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Pitch Number" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Startup Name" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Industry" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Business Description" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Company Website" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Number of Presenters" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Male Presenters" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Female Presenters" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Transgender Presenters" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Couple Presenters" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Pitchers Average Age" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Started in" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Pitchers City" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Pitchers State" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Yearly Revenue" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Monthly Sales" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Gross Margin" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Net Margin" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Original Ask Amount" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Original Offered Equity" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Valuation Requested" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Received Offer" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Accepted Offer" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Total Deal Amount" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Total Deal Equity" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Total Deal Debt" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Debt Interest" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Deal Valuation" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Number of sharks in deal" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Deal has conditions" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Has Patents" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Ashneer Investment Amount" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Ashneer Investment Equity" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Ashneer Debt Amount" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Namita Investment Amount" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Namita Investment Equity" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Namita Debt Amount" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Anupam Investment Amount" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Anupam Investment Equity" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Anupam Debt Amount" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Vineeta Investment Amount" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Vineeta Investment Equity" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Vineeta Debt Amount" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Aman Investment Amount" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Aman Investment Equity" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Aman Debt Amount" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Peyush Investment Amount" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Peyush Investment Equity" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Peyush Debt Amount" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Ghazal Investment Amount" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Ghazal Investment Equity" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Ghazal Debt Amount" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Amit Investment Amount" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Amit Investment Equity" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Amit Debt Amount" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Guest Investment Amount" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Guest Investment Equity" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Guest Debt Amount" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+            <Field name="Guest Name" size="254" source="File: D:\PowerBI Project\SharkTank Data\Shark Tank India.csv" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="4">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="162" y="114" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="Season Number" selected="True" type="Int64" size="8" />
+            <SelectField field="Season Start" selected="True" size="2147483647" />
+            <SelectField field="Season End" selected="True" size="2147483647" />
+            <SelectField field="Episode Number" selected="True" type="Int64" size="8" />
+            <SelectField field="Episode Title" selected="True" />
+            <SelectField field="Pitch Number" selected="True" type="Int64" size="8" />
+            <SelectField field="Startup Name" selected="True" />
+            <SelectField field="Industry" selected="True" />
+            <SelectField field="Business Description" selected="True" />
+            <SelectField field="Company Website" selected="True" />
+            <SelectField field="Number of Presenters" selected="True" type="Int64" size="8" />
+            <SelectField field="Male Presenters" selected="True" type="Int64" size="8" />
+            <SelectField field="Female Presenters" selected="True" type="Int64" size="8" />
+            <SelectField field="Transgender Presenters" selected="True" type="Int64" size="8" />
+            <SelectField field="Couple Presenters" selected="True" type="Int64" size="8" />
+            <SelectField field="Pitchers Average Age" selected="True" />
+            <SelectField field="Started in" selected="True" size="2147483647" />
+            <SelectField field="Pitchers City" selected="True" />
+            <SelectField field="Pitchers State" selected="True" />
+            <SelectField field="Yearly Revenue" selected="True" type="Int64" size="8" />
+            <SelectField field="Monthly Sales" selected="True" type="Float" size="4" />
+            <SelectField field="Gross Margin" selected="True" type="Int64" size="8" />
+            <SelectField field="Net Margin" selected="True" type="Int64" size="8" />
+            <SelectField field="Original Ask Amount" selected="True" type="Double" size="8" />
+            <SelectField field="Original Offered Equity" selected="True" type="Float" size="4" />
+            <SelectField field="Valuation Requested" selected="True" type="WString" size="254" />
+            <SelectField field="Received Offer" selected="True" type="Int64" size="8" />
+            <SelectField field="Accepted Offer" selected="True" type="Int64" size="8" />
+            <SelectField field="Total Deal Amount" selected="True" type="Float" size="4" />
+            <SelectField field="Total Deal Equity" selected="True" type="Float" size="4" />
+            <SelectField field="Total Deal Debt" selected="True" type="Int64" size="8" />
+            <SelectField field="Debt Interest" selected="True" type="Int64" size="8" />
+            <SelectField field="Deal Valuation" selected="True" type="Double" size="8" />
+            <SelectField field="Number of sharks in deal" selected="True" type="Int64" size="8" />
+            <SelectField field="Deal has conditions" selected="True" />
+            <SelectField field="Has Patents" selected="True" type="Int64" size="8" />
+            <SelectField field="Ashneer Investment Amount" selected="True" type="Double" size="8" />
+            <SelectField field="Ashneer Investment Equity" selected="True" type="Float" size="4" />
+            <SelectField field="Ashneer Debt Amount" selected="True" type="Float" size="4" />
+            <SelectField field="Namita Investment Amount" selected="True" type="Double" size="8" />
+            <SelectField field="Namita Investment Equity" selected="True" type="Float" size="4" />
+            <SelectField field="Namita Debt Amount" selected="True" type="Float" size="4" />
+            <SelectField field="Anupam Investment Amount" selected="True" type="Double" size="8" />
+            <SelectField field="Anupam Investment Equity" selected="True" type="Float" size="4" />
+            <SelectField field="Anupam Debt Amount" selected="True" type="Float" size="4" />
+            <SelectField field="Vineeta Investment Amount" selected="True" type="Double" size="8" />
+            <SelectField field="Vineeta Investment Equity" selected="True" type="Float" size="4" />
+            <SelectField field="Vineeta Debt Amount" selected="True" type="Float" size="4" />
+            <SelectField field="Aman Investment Amount" selected="True" type="Double" size="8" />
+            <SelectField field="Aman Investment Equity" selected="True" type="Float" size="4" />
+            <SelectField field="Aman Debt Amount" selected="True" type="Float" size="4" />
+            <SelectField field="Peyush Investment Amount" selected="True" type="Double" size="8" />
+            <SelectField field="Peyush Investment Equity" selected="True" type="Float" size="4" />
+            <SelectField field="Peyush Debt Amount" selected="True" type="Float" size="4" />
+            <SelectField field="Ghazal Investment Amount" selected="True" type="Double" size="8" />
+            <SelectField field="Ghazal Investment Equity" selected="True" type="Float" size="4" />
+            <SelectField field="Ghazal Debt Amount" selected="True" type="Float" size="4" />
+            <SelectField field="Amit Investment Amount" selected="True" type="Double" size="8" />
+            <SelectField field="Amit Investment Equity" selected="True" type="Float" size="4" />
+            <SelectField field="Amit Debt Amount" selected="True" type="Float" size="4" />
+            <SelectField field="Guest Investment Amount" selected="True" type="Double" size="8" />
+            <SelectField field="Guest Investment Equity" selected="True" type="Float" size="4" />
+            <SelectField field="Guest Debt Amount" selected="True" type="Float" size="4" />
+            <SelectField field="Guest Name" selected="True" />
+            <SelectField field="*Unknown" selected="False" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="5">
+      <GuiSettings>
+        <Position x="354" y="54" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Value name="Check Box (135)">False</Value>
+          <Value name="Check Box (136)">False</Value>
+          <Value name="List Box (11)">"Season Number","Season Start","Season End","Episode Number","Episode Title","Pitch Number","Startup Name","Industry","Business Description","Company Website","Number of Presenters","Male Presenters","Female Presenters","Transgender Presenters","Couple Presenters","Pitchers Average Age","Started in","Pitchers City","Pitchers State","Yearly Revenue","Monthly Sales","Gross Margin","Net Margin","Original Ask Amount","Original Offered Equity","Valuation Requested","Received Offer","Accepted Offer","Total Deal Amount","Total Deal Equity","Total Deal Debt","Debt Interest","Deal Valuation","Number of sharks in deal","Deal has conditions","Has Patents","Ashneer Investment Amount","Ashneer Investment Equity","Ashneer Debt Amount","Namita Investment Amount","Namita Investment Equity","Namita Debt Amount","Anupam Investment Amount","Anupam Investment Equity","Anupam Debt Amount","Vineeta Investment Amount","Vineeta Investment Equity","Vineeta Debt Amount","Aman Investment Amount","Aman Investment Equity","Aman Debt Amount","Peyush Investment Amount","Peyush Investment Equity","Peyush Debt Amount","Ghazal Investment Amount","Ghazal Investment Equity","Ghazal Debt Amount","Amit Investment Amount","Amit Investment Equity","Amit Debt Amount","Guest Investment Amount","Guest Investment Equity","Guest Debt Amount","Guest Name"</Value>
+          <Value name="Check Box (84)">True</Value>
+          <Value name="Check Box (117)">True</Value>
+          <Value name="Check Box (15)">True</Value>
+          <Value name="Check Box (109)">False</Value>
+          <Value name="Check Box (122)">False</Value>
+          <Value name="Check Box (53)">False</Value>
+          <Value name="Check Box (58)">False</Value>
+          <Value name="Check Box (70)">False</Value>
+          <Value name="Check Box (77)">False</Value>
+          <Value name="Drop Down (81)">upper</Value>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings Macro="Cleanse.yxmc" />
+    </Node>
+    <Node ToolID="9">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+        <Position x="354" y="198" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Mode>Simple</Mode>
+          <Simple>
+            <Operator>=</Operator>
+            <Field>Season Number</Field>
+            <Operands>
+              <IgnoreTimeInDateTime>True</IgnoreTimeInDateTime>
+              <DateType>fixed</DateType>
+              <PeriodDate>2023-09-05 23:45:03</PeriodDate>
+              <PeriodType>
+              </PeriodType>
+              <PeriodCount>0</PeriodCount>
+              <Operand>2</Operand>
+              <StartDate>2023-09-05 23:45:03</StartDate>
+              <EndDate>2023-09-05 23:45:03</EndDate>
+            </Operands>
+          </Simple>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>[Season Number] = 2</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+    </Node>
+    <Node ToolID="12">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="762" y="186" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="13">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
+        <Position x="966" y="186" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <File MaxRecords="" FileFormat="0">D:\PowerBI Project\SharkTank Data\Shark Tank India_FilteredDataset.csv</File>
+          <Passwords />
+          <Disable>False</Disable>
+          <FormatSpecificOptions>
+            <LineEndStyle>CRLF</LineEndStyle>
+            <Delimeter>,</Delimeter>
+            <ForceQuotes>False</ForceQuotes>
+            <HeaderRow>True</HeaderRow>
+            <CodePage>28591</CodePage>
+            <WriteBOM>True</WriteBOM>
+          </FormatSpecificOptions>
+          <MultiFile value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Shark Tank India_FilteredDataset.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileOutput" />
+    </Node>
+    <Node ToolID="15">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Unique.Unique">
+        <Position x="366" y="342" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <UniqueFields>
+            <Field field="Pitch Number" />
+            <Field field="Startup Name" />
+            <Field field="Industry" />
+          </UniqueFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxUnique" />
+    </Node>
+    <Node ToolID="18">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="534" y="330" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="19">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
+        <Position x="702" y="330" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <File MaxRecords="" FileFormat="0">D:\PowerBI Project\SharkTank Data\Shark Tank India_UniqueFilteredDataset.csv</File>
+          <Passwords />
+          <Disable>False</Disable>
+          <FormatSpecificOptions>
+            <LineEndStyle>CRLF</LineEndStyle>
+            <Delimeter>,</Delimeter>
+            <ForceQuotes>False</ForceQuotes>
+            <HeaderRow>True</HeaderRow>
+            <CodePage>28591</CodePage>
+            <WriteBOM>True</WriteBOM>
+          </FormatSpecificOptions>
+          <MultiFile value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Shark Tank India_UniqueFilteredDataset.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileOutput" />
+    </Node>
+    <Node ToolID="21">
+      <GuiSettings Plugin="PlotlyCharting">
+        <Position x="354" y="450" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <ChartingFields>
+            <Traces json:Array="true" xmlns:json="http://james.newtonking.com/projects/json">
+              <type>pie</type>
+              <mode>markers</mode>
+              <ysrc>Startup Name</ysrc>
+              <autocolorscale>true</autocolorscale>
+              <orientation>v</orientation>
+              <valuessrc>Pitch Number</valuessrc>
+              <labelssrc>Season Number</labelssrc>
+            </Traces>
+            <Layout>
+              <title>
+                <text>
+                </text>
+              </title>
+              <font>
+                <family>sans-serif</family>
+              </font>
+              <autosize>false</autosize>
+              <width>700</width>
+              <height>849</height>
+              <showlegend>true</showlegend>
+              <hovermode>closest</hovermode>
+              <xaxis>
+                <range>-1.0002343983422413</range>
+                <range>2.6690622692770063</range>
+                <autorange>false</autorange>
+              </xaxis>
+              <yaxis>
+                <range>-43862.325858168995</range>
+                <range>164227.56515881591</range>
+                <autorange>false</autorange>
+                <title>
+                  <text>Startup Name</text>
+                </title>
+                <type>category</type>
+              </yaxis>
+            </Layout>
+          </ChartingFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="PortfolioPluginsEngine.dll" EngineDllEntryPoint="ComposerInteractiveCharting" />
+    </Node>
+    <Node ToolID="22">
+      <GuiSettings Plugin="PortfolioPluginsGui.ComposerRender.PortfolioComposerRender">
+        <Position x="486" y="450" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFileType>png</TempFileType>
+          <BatchMode value="False" />
+          <DataField>Chart</DataField>
+          <Separator>Continuous</Separator>
+          <EmbedDependencies value="False" />
+          <ShowHeader value="False" />
+          <ShowFooter value="False" />
+          <PortraitMode value="True" />
+          <PaperType Width="612" Height="792" Left="36" Right="36" Top="36" Bottom="36" />
+          <DefaultStyles>
+            <Style Name="TextStyle" FontName="Arial" FontSize="14" Justify="Left" ForeColor="#000000" Locale="1033" />
+          </DefaultStyles>
+          <PNGResolution>1</PNGResolution>
+          <PNGLargerAction>squeeze</PNGLargerAction>
+          <PNGLargerThanPageChoice>warning</PNGLargerThanPageChoice>
+          <PNGTransparentBG value="False" />
+          <PNGBackColor value="#ffffff" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="PortfolioPluginsEngine.dll" EngineDllEntryPoint="AlteryxPortfolioComposerRenderPlugin" />
+    </Node>
+    <Node ToolID="24">
+      <GuiSettings>
+        <Position x="546" y="246" />
+      </GuiSettings>
+      <Properties>
+        <Configuration />
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings Macro="CountRecords.yxmc" />
+    </Node>
+    <Node ToolID="28">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="774" y="246" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="29">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
+        <Position x="894" y="294" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <File MaxRecords="" FileFormat="0">D:\PowerBI Project\SharkTank Data\Shark Tank India_FilteredDataset2.csv</File>
+          <Passwords />
+          <Disable>False</Disable>
+          <FormatSpecificOptions>
+            <LineEndStyle>CRLF</LineEndStyle>
+            <Delimeter>,</Delimeter>
+            <ForceQuotes>False</ForceQuotes>
+            <HeaderRow>True</HeaderRow>
+            <CodePage>28591</CodePage>
+            <WriteBOM>True</WriteBOM>
+          </FormatSpecificOptions>
+          <MultiFile value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Shark Tank India_FilteredDataset2.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileOutput" />
+    </Node>
+    <Node ToolID="30">
+      <GuiSettings Plugin="PowerBIOutput">
+        <Position x="498" y="54" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <ClientId>
+          </ClientId>
+          <ClientSecret>
+          </ClientSecret>
+          <TenantId>
+          </TenantId>
+          <WorkspaceId>MyWorkspace</WorkspaceId>
+          <WorkspaceName>MyWorkspace</WorkspaceName>
+          <InvalidSearch>false</InvalidSearch>
+          <AccessToken>301000000D08C9DDF0115D1118C7A00C04FC297EB010000000509460DFE7888498B472CEA6C028E06000000000800000050005700440000001066000000010000200000004C33D65660DBB2C0370A4635BCFE458759BEA021D20A94AA94FB1CA4505A9E04000000000E8000000002000020000000D4CA78C63AEBE78149448D97FF8DB4B9DFC306B77305D684DAB79CC7B2A5DEE4003E00000F3F42B1F77F6F50642F0D0B1BAAC40E2EED24E62CBA07B9A16C93C8DBBB92B7192902DAECF38FDB8237479D15D82B511D0EE5D5511480202365762317BDBE12ACD2D3A208946E66E0B17B92B44375B7B368836E1C0E2A2939AB829EFB49ACA648BCEEC06F333F95BAAA2C6D366AB8F42F7465963953E93FD2D9F4CF31DD845451493572FA8E64B56ECCE9ED9DB16DEA7C43D6510B317681E593506B08BD2DF0AAEB81BD2061D38C17C234831F483C456E41BF1A02ABC9D9B72028293ABE1406ACA473C1B939009E99FED47A5A75D92DF71CDB6D261422C5E139E12E4F0E923C5F18D9744C8BC65F319ECC67319256720AA68D8B3AEB0786D0CE2ED7EA8B6F18F9C2274EC985CCAE544CF2FA14A2C33ECF51255D2021B2797D6F3D975E2418D05418A753E0CC018FCB6641AA41397CCA406D3F3F701F6DBA497F2EA6FA5703399FF0E219844E300BE80AF7D1B1F37B2F567E6685BEA421E4EC79587D7B1C40F53EE0317B64BF0F27B57BFF0BB15738181C06C1D2BF04B5AE66BD204D5847652920DF656247C377E3B4B30FDFA700F17EB18B56549CCAF89431CE7F93710FF9662F840566B8593CBA7AEDD28CAEB9C2FBD8DB36BC49A2C7F8CA48B3DBC755CEADE5B8FB588BDCDAA499C9FD0B6F5DAF3BA1B06F94C694087C54D21B3FD7533000C15396FED9D7EC4FCAA4EFB8B08CEC127F78836730D6F3BDC7ECFDAC685A2DF76BBB1C4AC3E1095C3589D0B154961DEF990AF909463A380E204FC2F35D1DDD4366C8C045D39E3D2A53A9AB33AFCB41AF6D40C34EBF29E58A7AF9953EBEC1A83181C17C0E451CDD1AEB7BA45912501AFD7588F7F8CA1A1C178FD2964621E098C38CBF927300641D19246407B4CE34B09C0302BAC38049511607D1F7E4AC2AE11B7F924F028FED5858E8EE2E1CE5A0C0D62B3C16A91252B4EAFD6CCD9FD5E4D0AA845A7CAFE41A54B4D974ACF656564005DEEC804A24DAC09A8F8BFC742E286A6F32A255A90C09633F7B9497ACACA1B1F7B9B29AA80C496D7FFAD7A55F918F4D3A62F81442F163388ED28D6A8BBACDB10B556DDC2913FA11677F04AD56DBBE9BE5BB30FFB7BF2BAFE4DF289595A898C02F1C1BE9976793E0340C5426D34DDA07D688AA3D586553B516261C9370A22CD17DDE1421F2AFF64F80445AA33CFE9CA116F1A45D9641B5E02AAFF692B82C3FA4C254CA8BC17E6F7E78ED3FFC44DE5DD53AA60E3B4DEAE83E86EAD2BE4FAFA3A6E49B8DE2CC37AB6699B78E01677DCF2CA0BC78862E754AB558DFBB238D00F0286627A186A8B80B6C424E8C2BC43CEF6C6E1FE40BB1404EE8581AD4187A7A2D8CF6A9AFB6192F764712B162E8D4D291741FAA49A7730E746AFABEBD3A93BB5490E2F75AB942DBA76F3E302B06E7CB641BDBCDF788C15FB57C163F3878C2C83ED58A67344DDC66B2DBD64E8F0D6319E12DF03159EE9D904D34B078DB5BF14046549FE85F0542A7341E752E8D1000308780E31CBC391B05B840AFBE65BA3903DF295888BB53E41A577C362D0F914AAB49C4EF3263811D0A49C75AD30243360508A5ADBA6976B01C9070290A9835D7D65AF4B9FF93FDA19C8C23D6657472B19F3F3FF451F5D6BA929807CA626B29483433062AF958B3335DA691F2FC23F040C8B59F8D35EC4689F8610010B48F3820D14FEE7BDABC0F14396CC1ED6ECB21D62B430841AC7FB1406418F615FF93D87B5813927C9301BB79B2AEF3D733BE055D3288462A12D99C30D7EAF93EF17764C92E36B726830FCF5FF2CAFCF27D3A9A16CBC1C2DACBB33DCA2707F8C744F1C6676F648FB7B689FC035A0452910456D403CF1A8278219DAAEF3024B6300A121EFDB05D98D0E45C700018793DE0E96CE33948584B8482D1D6DED41E677CB4E8635E14A6D591421065050CDE4ADC97A32DB5ABDA6913603E76208EBF760B290C7F4A1B4610D006C2480B6A549260FB852AF143BB71A5785408ED867154EBD3205FC05491D7C99C64C524CDBCC59EF2122C0B75380F317A16F3CEFF07EE3D16B23AAF698B2F63BF92C11BB04A0A6E871AA127DE15808D77CB1A580280D9A8362BD4E1364F804CDA936ACE598BF7FB4336B7AFA9FFDBA303D69B4FC7177AFACB6AA5729749719F15B4CEA3CD075578307ED6A42DFE400C1FCA872A3FE1A0B04B5E80600A79BB6F153F62A25DB16EB99DE6ED43EC4FE93D939A1F1D01638D01A244BD2EACC861062234BAF3FF65DF6B0A995BE53557DE2AA998B29C119E65E26907770C5E646CFC768B52A3313C736E8F8A6310BDECA6F46DA05250D64BFA76F68E750E8ED00C4073EEA4AD08AB90F7AEE5C727BF0323166F749B246731FD41347D413337D15AB14B1EBA2CBECCD63D84E6237CFE14B5D977EFF45B25BF119B276CAB01E2BFDFDF76EFC26D8B4EEF04ABAB6C15DC47208715760FDBB8830380D2BE6F755CDAB20AD1A45C54175F2DA7D661BF9D27D37B5E08175396BE4B8DBA4B772A0FB00E9F8AF127C0FE788E67E50410C315BB72BD43A0025F0CDD9B7B3F74495718366EE593FDF901E6D0FBDA5A025072926D53D7751BE954AC54B77E622567FFBC21B5049A3C31BB30CDF7A993F608DE214C05F1BEDD31359AA5C35D9BB564AA230BB82819B1A5EDE68BF7DFFD3D0A8576499ECB8A9316B19E9B3C792A94360D3934279C76EFAA86329C3BD08CC3F01BA851DAB6066B91AC78F2637D086CCFCC2E15ED37FB2250F018A517E493A6D987B12F5A331C0A1F7FB1752ABA64617583AD22CD2D02AB87B8D318B8D5C3670D0695B60836DCD4CF64264B8545BD83EC415DCCB1EF48C1D8B82B193920E238557DB93025758D7CE6FE3561E2846FC1683EDCC544320A37C0D6A445C7A578B9946FFF65199453FB7015C735FC5436067B18A208B03692130FA882B26B4E85BD4288725AFCBE9E63E8000B06F7D7776438179F80025ADBF9DA6676128947D51B2399E5D563B772D03814FA1F9E45A0BA81F7CC2D6DCE1202889E5E2FCDB7D80603BCB4EB9360A15660A66405BF769252065894B0CAE5E7F37041E3DFE2A445D90138BFC6A1BABBFB5DDDF0CDB10D119E6D75D61A43E9442F91E5A39B35026754A34F0B6E19EF3E0C3944AE56406C0412387C9AB96CE9C7AAABBA8C3751589569DEBD4E14D419B3F6A91FB8BDC8958426D00475638AA7AA5EA0B473DE2D8F857F9BC3F8CD2CB920E657B5EC62BA50668911CD24277D862F07F930E734BBBEA6780AFE19B88E6ECF485CFF18B53EEAA3F44FD58F13766F15FCB1AD17F0809EC9D46C9965DC7E66BC8704ACF229C85E4C12678B7AFD5B3FC1DB9D673E1120C228DFA00BE5A0677A6688E8073207BB1A82DF20AE4604A4C5428ADC169FDEF9F10FB4A210D645719754C5FAD72F98970803428236C0FAB3ECDA163373F36A565C8E26DAEF018A963BA7DB11EECEBAABA6F6E6D2298BDAA8BF493830FEEBAF5EDA398186BAA65BEA5133B2DCE64BB708CD74CB607366805DF2773745FAA5135E4BE60EC112EEA21DB324219EF3B046B87E441BAAA969E403EE323CAEC59CB6C98838222491C6BB2254DDD27C931587C66ADCF5A9B94B36A48FB56C1A9656FFEF79761168F00AB67C21F08EC6B2446D61AF0B9B32EC63716BC81C309A412498F5CF031865CF834C0100CCB3F6876648C3C13ACA5C08ED1B91FBCB765E42A88B7F5570C4DF05BBC887EB4340D1F310ECF21E55440E4C733FE9CAA1202D3D394A727357AD62013CD65C977C3DFF5DAF5DD09B980A952CBCA056F90214D0E3687F211D831E62D6BC29473CF6364CB31C42F43F3777F62E14E97734E91218EA8B8160B1240F878282375B2C096D456FA6EC0EE42662EBDDEF5A207A596725CE3D920290415518138A51609458C151529815C81D32AA72BA92EE3ADEECF72AA0351FA1106ADC73D0137037AE585A9333B1EF3F0F65630236C008EEDE41F68E59C337426D4EE9C81783060D11F36F3953C25B280D2121CEBA92C0F6DF7C1A6DA8D2E13CF4AA71960FF7201ABCE00FB122D740FBAEAE3A18AA92E973D7A05E57C741B0926D79AAEB5EB34DC11E31B100D4EAC41498CCA0354F6AFD95DDBDC9F97C7BA32528597754146DA473F67CB4ADC4E834AF7DBA61BAD4D86A95D0689F2680C2D64A7578BB81CBFE211309618ACA958B51F33C51C5C2495E45ED5A70917A1C51B38A6BF3C7552EC87B85B7AD111C3AB5DCED085189E687E860B1C811191093DC20F7636FC538A4A47612E8BFCF94C6437C466ABD5F8B03DDEF7CBF3F0851B61C3E4DE737C414542C642901BE764FED3D704EE69597A857F0C03937D5BCA58F2949FB92E1B4D302F78B92D4DA201717EB21954A460026B8870C70DDD3350CF855C88074B530E53EC688905C6D16B7A6D44917C1B0D5A5CCC2FE383CD64B2C91543321D4C63DFEDC75E86B0B788E65A59F8C9C4EF30C78C15F9652329F32BE1FCD212C988AA7C6C2073705442AAC5EEF4B75DD9D768F8821B039D1C4BA4D4501B141E4670407A78C0D2DB0E5C21DC2C0736A9EF43ABEC94391880A66B14130EA5F10B19D6EB504EE17EEC70EBFB9C49E403B4414BFD593E8BC6F392B5627C0A3E920C4F6D97F13B19FF2054F1B4C6DA40A7513BE1DA12A0BE816D57A4DD223BE8C56FB56D97EE36466589992C7537F798318348BEBEF8A26642498C9E1498F2B705748DF5A0869987577E48A39C4BB83F866B2C5CE07E54CE04D07FB9CAA65757781755E60ABE8EE634A4F2A3C79BB0E4CFDD9BA16D98867165341D570122027AD7B70D8263AC558EA7C2522124A37F674FD0B6B5A9FF12102E651C00C55A57FA14F279977498A03E3641D16C9E9E54336217B2A503A9E551315E484B520622108456B721863F5352D5278A6513D1359AEF0DBBDD636B831B3956808D199D737DD0DAE4F4F7825297B6FF8C8F5C7AAB547DC8C0BDE3F4F27D2C33E814D44080C7C14D10908D99F3410E3A759CAAB2E6D6B7E69DD0537D63F68E375CAC2441DE4619913DF307FD90ED31374501C1138C297DEF996D49F8007F23A30F91D6CCABAA5725BA474E8D8A61C26040E25F2B9DCAC11C0E033115E5F990E143718B2823AA0FFF8EC0373A05FAC3B2B2DC42BE86634EA64906D26FEA029E5B29B2A524FAC011A916EC34C7F8A88402570DBC9301D859470A911614EFD184225C81D9FA4595F710BDD9C7ED24B8C3ABAEAE010DAC49E6DF421A855B5386A828ABBB0BC7AF27102A672D1A2179D1A303E1C2F2EEB82FCABD42E6BDDA1F08C2A7209F7EADA5DAD19C24D3109DB9EFBC9D2B4BA9C853AB11BC612EF94FC9AC18E3574E3011542FF0A9210B7D3433B9B51FBDDFBC6D815D0BAC116B5E9B62722294A28E806EF7C884F940E37F5D9B20D0CA189E7A63CB07BB3ABAC128A41E251D10D90FB441A27B0777C7329758436138E80CA894C5D08D77AA568BE9EFA8AC7138CEC24B471B23B40C69EEC81A3279ED55365BFF297BF949D9BFF5CA070E061075C359EF19DCE521CE3D2D72EE546BB9857552A412B2A0A11B2DF2419FEBD191BF4D65382BF4AECEFDDEA94C353F5FB26634CC74D585ED629BCFEB6FDA53747A20E69594808CC84632A9324EC0463AC5F144669E5478D7514DFD1518CBE37601BBECB171F08C1226BC3A875992941AFBE8789788AF930B4498CC9A9784164A73A6FAA144FD2782022DF4E5F53F7803F9089DE19167F0F1C8AA2949A66B052B3344A5B770CCB48A0D90FF91E9529432F4F66DDDC2F7002FDE26A473E4937C3ED2A0D0FAD811AF9A7C8395F2853E10D4FD30DF0D18965231C7731B49CC088591F7784626E6799D5C442473245C9A0EABE5381E172A6EF608EFD3CC5240E8E0759976FB1C0792658B9AD9FC373DC50CFA019EB3AE69F852140AA52DF0F0C8AF30F149C0D208BFB27778EB66B7F57419CC57D4136E157D6299F62DAC0FF9711DE318D672127D6ABE00D730D1DFC784DC42E76CB7353E3B3A6A09E64BFE7FF55A74E93F57BFD69EF181821F0159F80D1969DB8F5EAA678A55AA3458219984863C00FDBABF9BC9DA1C92AA90227F1081813A557B4121CB1F66ADA639B5D34EB877A8DDDF9DFB0652223FDA535D5C5B08E05FC05A06E8E28DD6F16FE153D7550837DAE8E0BA70B73F8EFA68BCF08E2F7ACD96A562AF0C18B599EC9E6D45E4A1CDD0EAB14422717C1F51FEF986C9CB37D919E6C31D35172281D2C81B283A0567762D8AFC84C6F7F77F826F3ABC78B8B4C9E744D58C5725EADDA5A04AEAF19031CC0C942D3F94750086D03B36E9DB98050A8D513C3282BA2DA9C458CD21AA7150F594960A3738993061A48DFD46C2839284B07056D4092012B1133EB78D0CB64894E3C656804B1299C90AAEFF7EFBA13A044469C9086775CCFB0763F2EE02FAB85F008FF54C6989DDA13BF01A1826E544259335A5633E5EB5BECC011B8F9550C0905FCC3B691E87EAEAD6719F10C83185A6806A1561E600510438A71095E58037BFAAA6253E8E928B3966696C061E59C57571C6E0A8E87906938F32B06DBFF0CD09461BA72138F30D5D73691C01ADD502CF40D44C979FBAA6EC63369C89D6F2E133AF5510EC13B3712845BFEFEC4E2B1BA0252F1515D722685F60095A7AE3E3AE0912E455F7001A330745B310ED26B36E2335E1D665A46C71F58E1CB0BF06A033246F790DC0BD974305B095CD89860559472A93AEEF6EA4E71A7768CDF3A39960A0E397D3E14D6D118541A6C70E777727A804288B22BC6195323AC27993C5015AF34C7A9C35027029F8A4E7139D5F41DB4B0165CCEFFF1B3522555E1BAC836515996FFAAD36A0EC016A4AC2684BF6BE7725E6F403173B1469406672256951D2F3859C4ED7FAE4CA2D19EAA9DD9D6AF191BA3C06A84113F1D6F2A1430767833A50DCF7321BBD682D0EE87E00BF856415D9FEAE2D4354841A7A12FF2FFFB92029047FD4C04671E28F66D0BFE5F14555D0129C1299662CCFAB00EC1D07DDB93A7B0048CB5EEDD21373F0508B4B79BF7BDCCE11910DCA74F64EE6DA273D455D28F89B0D3B37BB9113DCA5C820092BE9BE15A4F65EC6198C480B3A02E88488478FFC317EB23058C6A74110D9FC40B03CAFD10DC3A043DE1D9BB6862284B425D25B6FC34AB534A081CEAF2A47C14259544664089EFB0EFE107746665651AE4E8EFCC18CE1055651632503ADB54C74AE7655C98B6E1BF366E6468504B6F765024C6F68053D5631C78602C8B3D61379A8CDB82CD343581CB55226F7B266CCC9CA29A9FF220299B299ED96273BF1B66397C928BF88D1B4E367A3551F643E14DFDF8C223157FB8CE1CAD877ADBFF8FD4787858A1A645CC1D5AF1CB4D0383A9A928998CA1171D402D8AA738DE5DE8C1238C265B6A6E3EDD268CEF6E08659483A8EE4EF940A4926EBD6C55E000115EAE95A8D9FE2A02D8797C938DF69839616AE048862E9FAFE1D816CA17DA6886910A5CD691729C6358CDB729D72E34AAF2A3C6575D1C8FFAF3F1C9EB9BF58FCEDCE4D593F74EB0E0BAC99F9C616AB4D6E5DB9C3C34FAFB8979D1C8522A3CAA390E6B793F32E3CC4D4E91F9DE92CE1DB7C9D5F48FB359A869E4A0054D891AF7F1850C172E4E76DE41C634DD1555E6BC0228F090E21E970C67CB9CD168BE83221226CD13895883E03270AE8D5B1E28A170160548A8E8B3108C609DCD8C8A447E345EB591634E098F8FB309CC46464C524DF5D9FAEEEC50ECE12FB5F90791F7BA1D719D1CF7739851BE5E48964505D8DE94C81BC74C5CF6B45C8692C2FDF76B15F8EB350E1633A50223C10A7A0AFF8B02EEF56823D7CBE6E8C415090B0640D2F3C468B0CF36939FC2D300442DD69CFA404FE513E08E107B86B49B9DA0DF20250DCE7C8CEFDED75DAC21256024F79BC74ADD24A7D6D485EF642D150C7EFB8390B308E0B13A1A24117C55387D9632592E1E67A933320BE5CD53F47645D6F2D1747060AE0F8717C37DC681E509449FA969314B3D08CE0B60C8F1631BEFE9BA0FF7355B365430F1BCBB761D81125A637700C311B01D1C1877907F949E3BC68780E61829BB412EABD0DF830D43980CFF745D1969A2268762929FDE0310D25AFC20030C950B61FD9ED96CF61B0993A93BAB533B9D6E05DA6D2451CE76DCAC77E73F4BE4D335158CCD643BF488A31CA449C668034AC64BBB29EF9025E161201DA203DFD507CEE92300F76CC00585EB7804A0BA6B0F892006FD6A3D02D196FE1F5A699E3C7B115E5F71AD5F0B27DBDEFF632E250513E6F0E11737191507C1518B1CA6BFC595DA7597DBB16B646659AA70D03BCD5EF85AE4A455E6F24DFE8374F4FB9346E686EE34F95904F7DFD77C158C997700FD89C0DAD8AEFF06C188C8DEFE573153248178C98A60A836ADB7323EED21D58B428F79D011C7123DA96C20AB9F05513393789035CFC909DAB538A67508E28D645390E2AF34692624E99B7A19239F05CD85A3603A184F33CCDEA093136698B04E30D9AE5BCA451460CCCECD842CF58AD26E43F188B2F0217C7ADA18CD05066DF02234A4CADBAC2A9D9E2EFB27545A3E649945D8D82DE00F0AA46FDA91A53424ED7E87AEF3220DC0A96861E761D48BDC3509C6FE83AA8A15058923E6390899513E35A7397A3A8D744942FA7E303D635EBBD25EF163372B8DC6C609130E2F7A9A41E6EF2B9F8E3DF1DB43C8E264BCBD1E85A7A5C6771D6E41B40B9A8BD2DEAE0D646D6E5F45670A61CAF7850E7D2D1FD04295837A9B9442C15B3B2ECF74B535E3AB8F3E3ED7E8561D87A9474AB882EAD4F833B2497902F0FE71BC184A1E48B36A3CDE6C635AC607B1A0722499FEE2F7F8C82F8701005CD73D9A28E78F00263907A8B46FFA670C4E39B63292D38FEA32EF97BC6479F194AC6955A77F9CF63E29DF341042586AC1799FE84516A4972FA1EF0889635D3C3318331392B4DE18C4BD57E0AF8A04FE861A73B5E1807065795B291E1D8FD59175B11ECDCD89783518312693CBED0069F36E3A1DB723AB5CE4C8E13ACE8157DF7E554E45D11242B6392C28207EE785DA163EE5C03AF4855CA5985416AF0C1446BA143F957A0BAE53BC607202DE36757B917DDB9CCDA503FBCA129F4C885763FC5B724E2A9B48E6A62D1115CE51A6250EE916D0A044F711800EC749EEA57086A5C6A9EA2CE77DF4401C04C70EAEA042E2B8F935EACC27C5AE9587D65B6D8DC20FA6254440A3FDEF288B0F967DFB7AB471ABD7867F74DF46F9F2AD5B5EF73876DD824797CAB95B26089866780BB7CE6858B25219B8F2C2247A2397EA1999DA4F0804ADECA391C0EE282B1BD76FC4BC65EB016B3981799F33F2B867EAC397492360D71C613C7BEB445F0DE13E1667EFF92F156092FE97FD4E5FD60F0B7A81FBDDF4C576B24B51404A51FD4F3D83D1C282BB3FC1305CFA3528E8C8B5B0CFC298A2E87B7C8F15F88E79B5FE4F7F47B9032CCAE32F7DEA355363635D78A8E686E879963C19547C7C758536C2A6F41348C181808B3463A7FA9A5EDA3669CCF06103B55D47D3308AF328291261FCA5585D050B2688687D6EEB526E50E99D60E101D1A8C8147404A6F979393427F6F40E9F8168D85F8A081A7E04207D2914BF9A380A7FEA6DD047B157F1E6E5B6D94C57F80B6EF6254FFBF3311ECE1385E13D6320638CC01710DA26F7CD7A1379352BEAB79AE0F3F63EE017854E9E54006E4C87AD4CE7566C2B8EE0AF0EDEBA748C115AC4E217D8F176C703B08957470FBEAFAD94C729C8706DD1D03FFAFF790CA13EE7C5ABB4D5C05BA3F9F16C9A8D0898D06AEB14D611BBD054FBF0DA57315A132D8CA989960042A4F1591336ED7635A7A3721E82FCD0B52909ACABA2D078856A28CAD8CB9CDE67B1D231F9A858BF7DC93A198AAFC85E9D88F81ECC8FE9E51D069B7B12B60ED79FEB8D22CC9D7B35887FC0B37DB9597C09A141510358F89E7A14F8F035E51C1FDE64056CDF2F4D5AF8326EAF555356C987439FD0A6B3D64BF588064975DC3CA54485950FE7F43A732C23AE16CC53C10A0888D3B0C6FA9316E4A5817885981311329CEC6FB3C1C22D782C764FA76477808640EFCE44869683B2DC7E3C52D5CA4CB4B4DF97ED1BDD27D938A17773B0BBB069CE7FB0587F2E2A0776D89CC14660ACF3C273269F6AAAC41C04145F1E13D62DB2B10C97D127F4E4B72D5F542F4264266343F5233349DBF7CD07763EA568A7570200CD66009B3B74828833486C4038645653F172F443F7F9782778A09A2BB0E9D2042D7D696C773BA454C2D4D2BE6CCABC31D6DF5A6305DE3817544D45AB6CD05BDD69C040CB310FBE57BA12D2B7C98BA8CB4DFAD33AA7BA9B50C4164D05D96B0EC85A17BE68EB8E14F4A724F35527FF18FA98A0DABB0ADEE58D29DCC0099732AD0A38437EE8A334F1140825046F6F89FC0F0C5A3B6F3F9CC54D5600CD8ED849E64462C8EBA2C48CE144AE73F0C554486EC0AA65632E72400B933E4B7B3DD0CEAFF3252298F6208D5B6981A7588F7570A00BD25A21D5CB375F4486E2DDAB56131CBDB544EAC8A9B19B5BA3C7BAA3788ABAD15CAE1DDE86492BE86DC15AD645388F50594E66C42840CF91104BBCA5DC069A2E901DEBD36FC91560A5D3D6EF77419F3F119295663146CB98C5DC6F37FE385EC947D76C0D5B7200FDB7D51A350EDE4EC0DBC45140DC4AB34F37A9C0CFACE2844871D635C3FDACCC0AEE6ED413C88D889BDFA23E0C138FB3E7D35B8B682EB7318B634DE117C619B873AFA8CA3304BAC75E69B727974511632F9AFEEC9CDBAB773443FC904677675107C320CFFD44A5C086D0E6A20B29C1D02F413072FB697C3D25B4E9A222871D946377C41E48229494B10F255E234AE5F00F175ED587C06C6C959AC75779F110158B808E4ACB26BF710A2556C3ECD4866BF0004C01A5B2E6232D3623069CD6C3B6226CC5356B669CAAD5106A502B3B83C866083E6E6CBF4C338E7367FE176FD4E5017C61858C09BD447DD65F7ED1B64C29C88B8858E7636E37CF16D8A6D3BA262928C3501885BD8BCCEB541F011EC24B158300DBFB988EF110361D67B0774F9D0B9B5FC7D21DA561215A7ADC5CE1AC4C2C625013E00BAC1FA6A6635B5FABB780481986D9E44D1CF3F36A1612CFCE7B54F15D19C8D1452B7BD7E57337660BC3ABA2E7380735DF3AFFB768340E7858546E5C215CE268602B2E6064342F0399B22A16C09104B0E00F407DC14B1C1C8BDB5ED4C29EC88C0C8DF21F9149216C51A552EE28DEF931DA11C64EE2DDA89EFD79A4041D1F7DEE087FD2DB1182A0F3423142C316286096E2ECC0E9EF59E2783AE1E563D1FF326757EBDE1BDB51994681AC2C4CD66BE3F269BD7E5068A18787F8DE9DF31F312C8C4BD13B5D939B2CD2F017F0C90E5BA1CC7C90E3B4E6AD42DB0A8ABB0B60524AB9A14A2D43C63D9F009BC6AFF865F79F5F15A7DE2970FB0A98C0F10F9CB85B51A4A57D39519CA7F8549328410DBCF5F431CEE910A372648636E7A4A3DE4B5A3CB0EC009419C17203B7D112419622100B0FCBB053635E016514D3C66518968314AF7CBDFF79BA762EE247A137AC5272D3BFFB596055BF5AFBA377C3B2ABFCF5D218BF7E82603607C55E276216A24FBB1DAABB2F93C60CD5DF06D0E3E989D01F143A7A760CB2740CC8697D8AF4DB4333000311FD15C84599AA7C3E311E1B4F958F4E2BBD8838CEA0D7CC0045BCFD44F0B16AFC9A429A345091C63676F1129EB26B1AEFE13AECEE59CEBCDC6D7EDE87424193397FC3C801D3F1599518CAD579C919DFDA86F0695547BC65E1142E402F1F32E26BF2A93239FD7A65C24D817D3905A2511639923B7C55EC3D482458FBC1B76B2780B87297488705B73CF7EAE8267907DDC87F96D1CF5293BFB6B6DC5A4EC734384F3128DB853384F0DE48E078CD131439AE77E2AE53D3B84614A7C508CD1536C412C804DC4A600F45A398F29B8A57330C54906A50111AABEF36A6B5388DDF91A8EF9B871680B15FAA144F483476D0319A0FC48D4CD73953934184A49BCB0765F962FB90DF9C4F7A9C2EA9BB6142A75F5807BE9CF01CC7FEA02621FE8EAEC3536E3AE95EBEB7D16E8FE313728D5D5981F361217C0C5F32E210DE0722C88160F14416394B519590CF1B8A205579B0B2B33C0006B8554041DC1DE7DC5E46B4D6A918B1EEAAB720D039938026C207492B22CBD2B4BDDE2FC6DD10DC4676B78CA8D9CEA60B461FE0E1E784ED7979AF92AD6668FF2592858A00EF713041626A796C2BD381CE0214541F7EE75BAE117122B80DC8782465C2C6986B519F893571E631B5AFCED24D84E53D448C1D03CAEB5C4C3580918C76205957C4D0C7F1B6189B77454C4AE390B5D9CFD23F61C8057BDF7A53188082EDD798B2F3FD3EC6787D5EF1807211E5CF28552CB0B1AD9D0180E7BF93AF17E3CA0C685A23C98D8648662DBFF2870E823914F91D09A2308E3FC085C8DD3C5A79729BED0AF1A5CDF7CDDD736DE7C475A809C0713D383203C8E4276F4FC0E27DD7B1F301627E64D335C73042330B24FF3283848FD08B5DB5D9257286CEF44A10808A266671DF6E9084C807405FF27F0AAF34728776AC3900641C2504A5A1C0E3A4581C8F15CC989F6112D978705B8DE8FFCFC83F6953E2E303CB7B612C1FAE21E977BE38D3A69EEDF7CBA592D26EDA65481FF5298C9A68BADE45ABC0DCEFE43A4CA0198191B31009245F32B6BAC28949C7354789182032FCB7FD10B66E879B948104C6990F7B5EE6CD98BF6E44F7ABC8F20290743FB5258245E09FB17FE50CE116FB864393E660D4CF97F1739134F42A58A8C391E6299BCD3764B23D0199E9F0D95F62A51F62E1C967FB1FA1E528AD8F79E08178E336B7C7478A69594E38F798598F80C92ED57CFA269878079C35C363F1F42D85766187CB122C72A02C20A6CDDBA0A8EEA096330745E74F3D2A9D3C16CE198F2C3597CF9E3524552ECFF50EFB6D804760C188CA42C52DCCCF53ED2FF4B07F104C112FB9EC919178A8CAE429DD300B6E87D399168980E870A34E2A2422E2095561AA4B46E268370049A63ECEB7882F62F745CB5ECEE9081F4EF6F16C8068DAD225321E1077297F2588373B2AAC78B1A8803A80772E9059A684C9BB74185F6B722802671E92E4CB581AB1D020ADCE6500B1D1A07F1A2636F14662D82FEBFDCB7F4D4D8B869CAB0111351DEEF90EB1D75ACC2D76C638E26A62D738A72A7495047A8558C8F02C08D16B7202E0317A740A20F02E3BBE6EDDC4BE61F780C766214D27F2EDC932D3F6BE4DAB61602B84E5AD7244164340494713D348F64B5C3C1A099978615EE2B2A49CE174872E973DF21F31AFE67B7D3BD2F1D0DBCE74110E2ECBAFF01AF33069C2BEB774EFEC3CE0150B32E264F7E1E55A8627421F8F8CB330F89AB556F3B5498CA5BF6878F656BE7FE81E1942D17CF0B1C49D99858052AAD0554F741BCEA71CAC22FC4114DDE5DDBE36E57F2228F7469C015AE85FB78AFA39388C0F62A955DD2681525F2E24061332E2423668A44346149F4B080C9876F462C7A1D8B3387832743214B13AEEDA856BDC4073EFB0AD0AAD83B52EBAA8094ABB176CA3C8E075F3D284C49BC4373B0AA67AD91508AD095258F7D33241E7FA9C5146697D2293FE61FCF30189B6ED8A6D86FAE492780C3C900CF4D26A44F58E3EF305F4AF02C8182FDC3AE5D835DFC1800A14148E9B38510409F66FA399EBEA53C730DB2950D181C905EEA6BAF2BBD6785E300B18EEBC9E0B00F684179E180742F7F3AE38D6102015F8EF8E7EAF783EC505AE4797ACDC6BD9125BD42307CED461A01E005137FBD94C30AE5B87499784DD65E20A79DDEBED4EB896AE0188E5BE72E2C8CB78F296DBEDF1929CB915801CDF18D8942D1AE21B9DDEB13F179FBE939EEE56A98021C6A26A0D378EA282C12B47A5C5D31575760D6F1A50531D3441D4E9EC2BAB6F622A639CC82A846F1C19D3202B090FA8D59DBD132DCED43ABE36B50DB0718C40683FAB9347F575AF8606896B9859DA54E18338A9A12F7F933DD698A2D3922ACF8A9F73D115169EE4429345A908042D5973CD2D2ED902DBE5C2673C224724BAD561555F42FCC9322849E6E160CF210F25A9E1EA4C64C6560DD8A9B2A420641E91B5B03DC0948FCA7690730227419F5AD28F9C99A9A11B3C26A7A4130F3133961B31C7EBD9E53A6E0CD87B7D5C58CAEC5C1DC2087FC4EF9F286E877AB2AB230BCCF496FB399D62063AF833A5D7B6D0D670FAE48E783C5A58362B2F88AE58C3FB985728A2927D45042E2BC5DA31722E0C9650BC50514F308DA2CCBB328F2672DC2B690BC6A46EB85FF7D448955E571D8D443D728A76E72FA2FB0902183FD7001BB365353110D211E36D7C0BD27D0ADC0B3545D80C896890CEC81A8A725173A0B969244ECF4EA5E71CD3FC9A18602EFC44647D0FF7916E8045E3138487223F6B31640822DD7B35283AC7DB6A7D7869EDA2C3B1AB900AF8F99643B9273C7A0F74E951B992B26B37E11DC1C2C5B5889A2B83841E0EB7A7569453BF5EFEF44B9257F52858A048E2BBF9FB36C8FE02F62D5293968C63E2B332C95412432A5FC03EA7D7654D56AA3F7577F9FB966A597BB20254C5EC5C2A2B9E900F30B3E00B7817D056BD231F62D9E12028338202225D15626DCE749D6DF116C967C08668B3AECF4C0E7E9521E58D23BBC43D19D0BC0C2BFD18521BC871F3B6BE6FAF9F6B6020083253F341C19F66E8ABF76CA5127328B15A7F8BAC03AB78B9199BBD91C403F6BB9253B16F0433CF1A8A517D84F508EEC024784BDB320454BCF407A4F44E0F33D6EA80A6CB746180F1534552C97F2F0581E5B073C26FCBAD11347AE1170DF09FBFBA72235B7619DAC86C728A40F0C5FE44E9B4F0FB18D186409DBA53F8F3FBB09A634B2D77BD699FA6522F1EB4741D5D118370BAACB9EA8B88A0E8B692E9386FB966C9316FD8077DEFF91C60ABC4B4A144E6F96EB806D29E0FC55473E79B8C42FD25EB75FD1FD1658F76F3D74218C1A20C4C926C2717475F1CD3FF007CE5734459A1A96C587E2530A2BF8AAD846578B6ED8549A7D3B99F927BA621E7E41C9DBB74B42E04D22FA0540A71CF5BF0EDC405B5E05986DF419290A6B5965E29D1FFCCB6E1A13768DA29FEE22A53E7576696B6FB9979EBE8E2F680818F2AD3333501C2283E24F53309E20B28A26BF73CBF947A52E64F2BE7B66A8AE1F54FD7941D5543D30B4A47ED4F8EBC2E2ACFAA61BA49F35963DC16C2F09B18303576E512101417F5A0A58A047C869FCE99CCA369058B9FA2FB66B4E48418233E8623D8CA63972EA71507603625B5259003D1DC012A3719FD314CF9CF8745ABE9CF969F5EBD511B711ED5D4CDFF3E642525318FA24EBFCD7EEFA3CF870F654E6660937EC8E40C4E791031536ADF67343A3B67F4704C4D4240CFF839495CD05FC7950E6200F3FD5416D016B3C6E32668591D7F3973A9135CC1614290197C25DBBB486E86B8458F75A5FCF7E8E60A2AD020FB83E994289DD756537CAF796F408D179BA8D6D3E7205822604F2C6B12CD99267F70ACCF36C3ABF1D6A01A1D09B2D97F2B520D1EA79B17B0E4D1EB7C2FB5D40D522A4FEFFD088A397F565D88EDCFEBFF179DB352AB6D90618060B9CB000B17F4524C5582C7964DC02FF1A14FF8607184EA66FA67334E428E2F448E6C1C3B5D19F70268D3DF4CBBE671619757CF0C4B754425CD6F9F8353F1FFD7018B84E091870F5B6AE6FCA5C905CD8AC168CA5DC7896CC154D6535C95E81BFACB5FD6599A8FFAFF698A4951031FB1DAC3782C539847A47C735A30928733BA0D28B4B1CEA1338F7B3510B45D74A9FAAEFE6D369DD2C21C922F254EA48B14D902438A2BD65DFA05D39572115F6B8439BF2D105B83D5403F9495F4179ED0AB137CF339BF1DD49C09716AF3713B4AF2FE5DC0EEDA0EC9BFECDD779D4B9836BF1CA83553039BA13FC59FFE5B21A7126C68D0C0A2044A6D448D8E447B99C9237075C64FD22CF083A85D991553F38E00707D29E9F50FEE2E9DF15334221E7156B2B687A529A65CDED0E6795F8E2E1D9259D31F4F40413F6C5796BFC73F6687675C0A05679173F5304DB8FBC5AC3E9FAEA1F840057A33548F3E625DBBE3D1BE70BBD886B62F27AAC6963FF2C2F562DA0C19F5EAF25716034B02C860781F357750AC8CE905CE8332AF8B5754BC43022C69BD3CCD6C04C97F1DF3E895B6528E6DD06857847A3BA1B16B3E187D6C5521E82690E204B0758BCF2E4A9BCC30C391F8786266BCD6F97FCE3C70BAED26F3DDEAB69990360C5BFD5287BB809B108B518DEA3BE435556CE93FEFD9CBB9DC12189B772E8E7189FB941085B65251F09AB88DB20E366620D077452AAB6B5F88987E9CDF12C30AC0AF5770027301CC08FC271DABA03754576ACB88D4BEADBADF86F89FCE1F168F1455AC20EE17E8FBCC99A9435D344367AC6EB1DFE558A71012CBD3AFB867A3937638BB903160984B3F0B648960784B291CFF49A8214FF17767B8134D983AD701712CBB82E92D34E22942227D778458F17AB3300A050EBAE010A8C6315C9DB1E90159C8CFE9AC9FDDBF18AB748FEC6D9CB788977368321B17D70414F83762837FEC21DC33DDFB68C0972E801968B6060E513CAE3B12B3A6A4B21D9542A89AEBECF1CFAFA33208FCA6E41FBD8BBAD38E9A2D911F8A63E2AD211CA51B5097CF5DE96732AA6716A1363ECD3EF2385A0BE6F971A1378EEC5EE6805492E7224FD217138D06FFED036728B110DAE17947AE39E67A23E816D6CC582F3071C3CBE0EDDB7725A37348557704A51B23634C1042233D5176EB9C49DA6667E22E2CF87FA2B3806B5E5DF4C8946F382C1A2D2F4CC1CF84AD03CA80EF09F5C268D2A2ECDE54D4EF59AE9B30B8984D973F0230DB8FC4D39B3484B2DDC13930B87D5E6B64E3F1EF7F067B5DBDCF82D26E8C07BF933F5FCC61D8C7550C9FF571DC40FB6FFAA7F42A288809BC2511303A38A03838DC975F40F786021E26FA64A82408DB6B9F73AC5058AA2A71551D607E9F096B1ADBA2BA90A978A3A115DFBA9B751DACA7E942CDA412FC9EC6D840BF3936BCAE6A7CD3ED7B9382AFFC0D496E6A59C907F75ED324BA13A9ED5F14DB92994E36F5D9D07E9D122ABD3B227FDE6FC75538DEB7BCDA6589767645EABACCCD166F41FF7EEFC3BEDA76C72F03990E150326D4573E41727163EA64AF4430A4E7F0590C64350B4A36C99508CFB74E0B2B35CB002F44274015B116B4D8E43BEC4128ADE0DD154FB8BD52EB7B19410D1050F8460F73C7034824486BDA5908DE4AC9530D050B1503503D67ACEAE46DDE3E52DDE6AD13E238AEEDD88F503278A2927FA5D919D371187060F3CA7148DD0F9D5090056BBD57A788AF1E40F81CC6224D1EF836F0CD9CAECF89F8606F27B6D6B497D38E7A3C10F883951CEA934815DBA1D158FCF92AC963B46D70F188CE31FAC8412E994F2C37635A9B0FFFC23D5708A010EDE47B3050C2B5619C5053EB8C2655C20427033F19936A26A9DB579FC47A691D20E5A80D0814C48453AB993F5C8B9BD3E3A6EFA52058A720DAFB1518FE0C032CA53F72A90AE7C269B25E1F6EA2572F69437276D1FB14E6E706A619CED98076BE02E1522FC6A575C48318B6334E2F7CDEB09B217BBDF5DD3714020E3263AEF659EE43FE538B71E9EE1D26E3BADA88541F54F69F57FAC1E8944C1DAA41BF1BF4A10962C6F1AB5A509742772A4E2BEF5F520AAFC6025FDE638FE1ED577835FFAD653B3413D40EDA8684C9A52BFE0BCA65604C81665366FD79FD537065F867B0204739875C438804E0CCC2695C807876382332B63474457DBA01ECFEEF0E0D64869CCB0EC77E06A970B466B37AC03EBA04432F96C069D3C94C0E01423375836A1ECCFE6626CBEC771A925702D68B264660352BABFCEFBD8D45CBA57BC70AF7C61FF7F448E1BA5D5F15DEB1FC4D77A357CD05BCE3E978DF0B7276BFFA387BD43DD00E8DBDE5BBB6FC52DC0593F39A09B82B0BCF83F62D2843A1A72F4906A0DB42F874C19BCD3CE3888D6ECB38BCE5A4615301CC9DEBEA461095C8F9E0F63DA503075E3D5A31CE15099F964A0A9D8BF06CD6E66165352911B0EE7C6D3DFD53C954930958D3891E6B39990063248CF6F6D38937797550F5CB65B0484406EF5B9EEE547970AF4A153B7B19AA69E70820DEA37D9D8D342899365855C62B7CB4DA4C8C11380D6F803DFF411CD40D56D3F3829340A4A437CCB0BF039E2AF0185109B3B9BB7F557BCC23C6BD365CC9CFA41B3DDCE3C9CC99726955A3C37666C95574D15FE6711B249AF04C4865860E3CE650851C2A7697B227716A0EB30F9BAB05B61D083EDE0310568281DCF7817FA8AB8330D29917A6918B2F66317887B987ADA337D80D8B257B6833D429D3F543AA2135E82D0096DD64D3E11059F951B943D8E0E4B3E8F368ECCD2DB080B2EB45B658AE8C35C09BB228E7D3A53B7720526AF0A311C10C14409226ECD6AC3BFAFBF5BBB4B1B99045471A4D04F5C7E8CF4724074510372E5468EEE80147B3EB6533C7CB4E619DADF959E89E1615B3F9828D1DAD41EC5C6CC02F84A5BC2D8737A5507D52E84BF758F70D5C3014BE3E776936C2AAD4B537E03CFB62A9AF98BAA2C88DC4AD7C43BCC69539B6185BE295FD7982CA139FA23F0F137C269072C97C89F5F34CE057A16346974304DD6C354FDC1ADF2001C9DAEEEB40BAA8E17EDF3D9183C27717061766C2B5D8D2B8E31CC584745AA17FD06AD9AF16AFD7081FEE6E71323E9883557836AF34878D21ABC4087DEC25E1C0F954B95457695D1282D957BEA736D173CC4BC43E6F9BF9EC93390F6A68388D30FAD241A6C64B09E9FD99F81634A5E0DB0FE3B1DB5F1FD7EE9F74D23A2B611A70108350771F58FF2D13B150523399D754E3A9AC9B94BF9A70E8E2561CD0BE5FB2384456A53EDFAB84F67F44BE79FDCFF3E714B624DDAA7438AB6B32CF6EEB7CA8548CDB5E64F28D8E1FC9C9F41641B5F3DFEBBE7BB28C9BDB18293756FEC0FFA067104C6E47BC71FD50D65E5FAA02EEAB7708FA7D8FE4D92E38E5AD157E10E95C8F51701157AFFD7420E454EDB2A34E7AD297193AF09370A95806919EE8F73B3834459AAA1451B68A4F9B5D83B100E29CDFE71644470171B2E1BBEB1471C8DDB2BEB9110345B155FA434954120519E0C4EA51D4A134F8782556F08035C380280F24599DC24F5F0D1940866718CC7A72F91596DB7BBBA512EBCD0A97516935C40179C1AF92CB26D626F6224895352A6A31CA45B3A1E5A4E7BAD49157527832451E48384C07A5B99B5808D6CB0E2CF1C578B1F1A370B1C5383C87D74864E14A24D8309505BD4E47E3EB262EBB68BBF1486D91A593A1EFF6338E980B3FC92B6F3BD3166CCB4B86D901D3894F59E9D13F54D23F76209BD8E9301A6075249BE3017747885048AD5A4B68923CB3E587FE777D52647BBFC2C72D847738A6AEB1CA46B3266D18280ED6F2E738F3894F23A7822B4EB8CFC5FCEECCB8AF40C4C65647B511FB574514C4052F63956CBB1E8DBDCF0B50BA824C9A907060842AAA174CC2EA10E0F0AE52888B8301D7ABAF3E0A749ED8201A3B5B6002F5D86D17E834AF8A7445F736D9835C1250B2CD0CF46DE4C3FFF65C0C8BC5666664CC4BE7DDD281A1827E2FCA207CB60B42371F2402B8756FBCDFA618FB7B5BF07F7865CDA65A0A86A2B45BB7BBA0659C0CEBB9E50BB270709E802EC463FADCF6C985381845989B24FD139B078275834C326C873F3C4180AC155BA0520D41A7F29A6F9ED8CF1D3B71D4A3CBD7F77D08E18B5FCF5D93AFC95663F38F8096B74F401EEC72F5A70DCE69E1586328AFEAE8E464EB747241C6F4B6B46FCBA4613A6787F266A38694B193CEF274D37BB0EA6228DF81504B803DBF19325FA873E486A15B686543F46EC191D70892B63F0464A5B26D59D9F15AD515A3E29CAF9C15E915D8F88E02A9BF8DA4C1DF0B5E8BB4BCC4C618A1B61A30B884FB446D5AA78E58681766932FA9BE60D5ABCA2010B35507F4E2E6003B124ECD4587C78B3FCEFB0361AE387805CDEC46385B8D5A9C3BA44B55859339806E32D9EFFA1332FE1AD5BB1566FEFB2666DB8B8CDA2C7BD84EDB8573B2EFAA0106D6FCF9429279DC1EF80D8757AD84329DABED20A8A7068A61407919FB2F679D027F9D284331AA0B20537EF1FF94E398FC6EA45EDE1B875D9CE2598657167D1282FDD5139DD33702837CF3F22E05A6A4E74E17923BD7E9C25F6C48BD9222EC873345A68AFC3011130E34DB0A3A6C3405763659D5847A1462E21D4D298CE1EA88C48D8AFDCC00EB16FBE14672A0E0BA926248A8FAC5E5CDC37E8790A997A9DE9F394B8B242CEFE9A0C9B99BBF8EBD48BE49462A69E69B929E10E0EABAF82E82EBF3B6F0C84D344A43337FB6778B378EB33A048253D27FF8443DFA2E72D50EBDDFC9C288F7052E0ACCEE8A4A6ADB22D73C80B6D4D88985791B51AE6F6DB9B66527E5BA6D4E2606C559D1EF85B0584D1CB53393431FA15C9622336FB2FA473BE0CD1A3D2AEC12149152AE41B959141454833702C8CF787F087245E1E533FFC8C7155BBD2F8634AD294667C1FDA480FA94EB9446DFFA8075EC505A38876E5C4440DC971BB9192AE7D62C1C955361E2A2FB79032545677D82CFE611BAAC6E100F910C2875D855C20381606EFA4D0D64A66044A4CC4B27428D3A5F6BFB58605A1283541AE1630F3F0C3118E23DEEE239929C9C6295EBE7503E57A683811B52E2EE81C2E57C42092CB0A21065A348258BB03224C176CDE4E9D676AD06FC609E7CB038B6D18837377D96D6E8D5E31422BB1A185A05F5494F06B4ED59D9F6C3EF850898F52E44A3407149515F1C61BD853AC8A9A6E5BF8317C090F751C8187A94E1BD4919B40CC0B75D082CFE665F76F7B5A5C0D8A54D8A5CADCC2F0CEE8A55975CB503593A4F0F4B9F4D904D27D3BDFBBBA105EBC2592FDE3DEC79BEC9B5090863241F397D156465006CB0550939EF33F4768016A73802BCB1F24E42B79795A0D1EBE4CDB3F769C81814CA3551C0D821B65B024DD1B75CA3CC2D6C7D9E749C1B7A7FC6273BA8FA6ED71BC23EC600C5B70D1764E14C28DCDCAD556EAC2F36142E359E17BA46458F315E403159E25D45426839A22A94727B21CD84FB1D8DEF3D1B0435911D3C75F6EE18922690A64660D5D9DECB41D258E0B3EC45A20344C6A6DC3AB54552B5C20226975A3EEDA6218D3B303D7749821629C3DB317995E0A0F5214562FCEF1E436AA0DB28ED12A162E928A4F6D7969B40C72E67E2F91152D0B69B86C67E0F08099759CC11D8CCCD38629E4E1E26D5467FA7021827B684E5320E19E472F95AE54D999450D4BA68D9F552AEDA007683A89A2EE767F1EA82340E8405E3B6CF5398D5D2753889F7C977D795018E16A0F1250703947C0DAB508D3468453A55018EF22053CC5F096457B970FF3025DCBE3662A2731C47B22CADFA88C18C521BC59B3FAE66AC29BCE69F16112BCDA44DF5F77941954F0BC15911450BC885577F913F4A74FEDF3E6FF555BE7D9BB522688B75E6B87F19DE083373CD9969D91D6BEB28202C486369476EC239D26514878F6E1C3CFDE947C50AD9B31CFCB90B80801BA8BB43748C86D7AF5952FE20BF497217FC7891FFD3BAB9DA510AFFF62155708F84F4AD0D7CE8046A5FF0699869A33E25B778A797236BCBAC56D94B9986A6E1C6760CEE7C1D66E0FCEF695AFE32C5236164156F075A39ED1984F83C8E205337734605B22A22660FD37A3E4C686BA44B9CE4DC243372536F104A278C12719FC8ECDF955776438BFD8DD9B7BF0A40068432D5320EB3FB677EBAC84C43AA9F854247EACABBC7846FF8E58526204CE96D89AFBD86AB4539CB4785A329C81C60EFDDB49FAD0091ACF0BF687FB025BE01F30D51916BD2EC786B4242B9527E392E771DF2F88D05D236878978B84E0382EA49B4FF8CAA9BD79D409C6B6DC7AA18CBB1C6E3732AF06F1075C4424FFE81252D366010CC422F877A14772643D44B847E4E156D33AFEA027E4E2910E7014A078824E252481A55C9283C8FF8A37EF361FA11D7D98ADAD7C849A705A6BB102698E703FDFD060808EC5D33D86152E29D544560B972E7263C9C0921EA9E790363014C3A7D6F966DDB561FF98072CDF55DB3A02C4B7F46518DB69CD1E743E6BBDEA20CC42AC588DD6F96FAED88B1B57C8F0B4B206129A5FD25B8A6FC784DB903D8C6D435ADD98F223A9DFB814F019572E20B8658F57E8517D93BC32E521E41E908EC3C3FF2DE87CC1933BD946530961E53D8A0F1D49E63DA080692E0178B5DD1F6F1DB1A32D2B3E05BA0C12435C9651476C7A2B2BB84D1E6BB6B76E17DFEA4FC8ED4C2A5056BA9D889843193DA730DBF994DC2FCCA55DC9CC8380CF807A15841B25D6364E493855BBF687DBA9E6B681BE6613CDA1AFCB13603642967E61F3D9F6D8C224DF0CF78895F4D9E9D1A0E2BC6157D8A9F534C14A1E71C84A0517D6FE08E945A9469B21BC1423424F823AB3AE53C187939A6408BB7438DC53A5C0A550663F976B33BAEF239F0687F1B95DF6E21F93FE4EFA533D5F86CE50F4000000039DA5E6CE59123D1CA61AEDE8BDC5D3EE52CC1442BBCBACE7CD729BDC26631460BA7FA2025A426A7BC9AC2EE253164819F5C543B295C59620E7DD587DA9F48E4</AccessToken>
+          <RefreshToken>301000000D08C9DDF0115D1118C7A00C04FC297EB010000000509460DFE7888498B472CEA6C028E06000000000800000050005700440000001066000000010000200000001C0ACFE99C3A122CF621A13177037B16AF158E84905136B3A733497A23F231A0000000000E8000000002000020000000F200C7D755740B6DBA0302EC51D32014B0594FE302F095281DE66C6559D36BEC402200001A22B9E1D5E00633AD830B6799E6E831EA08B7B8D99D55EE9803863A0B0CAFB2E68AF78F1B6801B25E5E22198D96B71B4B16599D9B5F60DE526C6F0AD6C3A34FD8278193E19E44DDBD0DD73CB0A3F7F703FFCCC79CA459BF0CDF28BDACD399F3705D1971CA1E57B03FF5770EF42B70B9EACBF2DFFD4A2546582C287341D9A69A73B6359ED2C74A4E877FE2D28F0B8BCEAA80738F4E6C415472A2C1A224733243FA7866057585FFACA7A5943D40FD6CBFD665D44E8ECD947410B701D3670E81C743190977380960DA90DA9363CD0E6EF2DFE127DF3DB251883283019977548F4111EB9BD5AE17B1183DE96299327D8925B34A5CC996F63ABBEFF209544A1027F2BBE1A12A063F3A540E60AB7CFF46E7EA62F0DDA64A6C7FE562109EB74A77A30E19B429DB598FC348928FC94A5207F1DD91D93CED74B2FBF577A70513D05CB4B977C4DFA04673420879689A025461326A6B7638A05A9BC5032938DA7E454705E321741A21E94989B23CA04899D5C95D0549DD905FA3B331AE49A35E87F9C6BB0F69B99D91FE4699A5E73A18073F2AD8146E3339F2F6260D839B6A0E279101A4B4FEBBBB03C71C66BA09434EB9313AAC24EB4CED49E27381D70E7C2AEC9E541DF9831BFA0DD6CC565607AF349F4C0D51EC76631259D11784EEFD5BCDF18CFC6221CDD915334A4FA405AF0EAA567865A1E84A8EC31DB0E1A88E59A592AABF59DF445EC8E1BE5FCC88A7C340BB2E15F713A7C11054688961FFDD39E42B44FA43F919C75EED5DD048AAD18633AC3F30C35A85F9A1033B71B9455AED2DFF4C6F42E3A57AAFC03AEDBCF0C2376803D98D6306281A805FD70331D8A76259599A31B2F3404B159B14C7C063DA9217DDCE95B6173EF819FF76B44EEB79D23F4611D3936C4971E8ED84CD9513960BD1D4BBA5B82C3BA0B7C75035E0E31C48C699E8F2A5CCC9A71D7453EEAB28E933A54BA53D08CEF5437BFB3038049F4AE96A94B8490C15AEE9C53EC75475EB5D10598E6117594D368BAC6F5F0DD3D47239B6EA25529DD94EAB80B05F7B6F4A951477D141A9562953E6C7E5CB7DE278EE5CBD4B1701949CF90059A5770DECD8CCCAD16E54A47CDDE6823A0C05370FD1C960CE367B8F87AB146E555A183495B264E95C30ABDCAD2BEEF98323F37F1FC37BA0C46599D13F049B517EFFD748AE6E4D55D3647F497DFEFC9D7019F2CC8A26A4BC158387C738ED5ED87A4E90124BBDA671A2BC01FE8D45A4BBA1F1CF2BCD0E0BAEBF01A3B8A2CA4DBBEF2EBCD02DDE4DE98D4840CEF711BEFE58928CB8DA9A798DBADE51FC9D73113AC2812693EFB63F1A4B4C36347082307A66EB9D8CD283343315D5B1FE39BEB128F8747C6ACC2953E82F664B25510C9AA35B4E1CD55B17639970686A4F6D275EA3956A0C76BB778B4A2C4438A49A673DFA1A0E21725ABB3CA36D05FAF36139AFF5584135A21C0DAA66FCDD0E10D3B5BCCAB999821F189764383EE7593B7810CE8A3D9F42F826D0835636AB6DCE6CDCF7B1FFD0065D5E214EF0B5529A9634F356014CDB8FD45ECA4518B5316C843BA1411F2CF1F3D7B5DB4549D1321C6C1BBCB714D791403CA2CEDE4983C80D925CD375F037212766EC027870EE584673308010AF75896325F685420723F8B2A3C4766842CC01D8AE8E3B6BCE64C40BE4C90EEC1644D73AE3AF8C367130A338AFE8969142A0CD925783AEA5EDDC431D99ADD720533AE0ED9A0CBB7BBA410C38152C7F28E30324AA90ACA84E9082700924E974C9C107C5D32B0BC5E528D1D33D2BB793B44CBBD2A16222DC621E89DF8E8E14E80B3EBDA051D2DB0446799655B9452D5DA18A03A01B781ABA5182287492FEA2CD0375638F41CB03027E6DED6B4F32E647856B1AF0E1AA5B57EFB7AAC3CB29DDB84FF4A6D1DB7DBA058AE7BEF09E2DF9E06785B7A0B65A912D5DEF1D7722C06BF4EBD1B42A8B9A3720C9B30CF653732B1943F58F17FF526777D6B738BB0E4D1CA405965A110839C33F28A5BE79BBE3A50C2D8ED724643C9F44FFE2086D07C6BB5D6894A45AC981A427AEAA5B2F6F95526DC65F3DBC0489FDFB600AC443F711932C54702366DB1B24CBC92DEA3EBD9CA7548A1D9962AE064F91B34A4956C35F3EC57FD9551C82568D56C6BCFDBC44CDA05E5F3E3C5F348BE988ECB7B1BBFE57690CE50A3A1CEC1EBC185CE234BEFA8D3DFF57C6C0FB5CBC726B1CAEEE89FB0A55A0CA9AFDA5526E31F9B81961F11E994AABDD564690C4773874093745737351E491458725EDA0F277E43F5EF356E5F16163843CA5D74E4A2D17CEC51FDF4D84D1E4737F522A01564BA75F8B50907CB5825D6EDC2C942D6FF6B47699474CDC481E6A971425B25CF95A7839570D179B1F46208B8998E058DDE91C1A53823B0173176C480715E8CB00FD412BE44F7FC3690AAB5E85732FD7B706844298A806D614532D9F088303ED6563A1A6CE95B9D55EA27FAAB123C91AEEB5FEC3782A08A801FFE630A1E91CC6DCF282C63D5FB70EABE223EB573BF316BB46749A9709620E45FA000BB106998D764C089639C89E7EF6285BF5853040E231A7535E28B95F612D0852489C445D8CBA5F2AE870CA2A534DFB1A600D83D1B7AA39E9841166FAF7F8D8378CF1F41134791B66F16D521DF22BF1D604B32ED1A1C6B99AC5FF72D80194BE28D343CE8190411A8E245E95A0BB7ABB3D98FD0D3B283CE6636FC2D62933931B2580B42B110BA3BF27F59F049A0A666236FE7980AD665DCF899A7F96E864E5EBF18D1117FA46E93F0D0715C6D93D557AE132CCFC3ACB5B8179A3998BB030B356FCE24D313EAD4F22A4C45995184A09A0A051ED431194A70188EFF448DE737A7CF0890D7E427C2DCB27DC5D69A2B9AB711AA6CCA92D0CD379557E912D1CFBFA0DA7823AEA7613DC2A6DE295621649DCA4763C2530BD56E51A715E8F894FD25A8FF60E5D0A434A33BB1C17A2423C82BD087AAE05E5FAE0D1024A3ABE23A12BFD1956B57A654466EC9D86D4D3AC1306624B85120AAFC208F570C27DC203A74A2D42EF0513D0106E5F750024FDF0D4E50B84A7AD42173CDDB3F677CB168538E7FF361F15AD00467A79CB81AF8C87C07706A1655662F1A0423F32D73838A905CB7A61C8C8002EA12898A0A89DA7B65E03D535FBC06696EA07829705D8E9C640F6384072928617925E49F08D2BDF230A24DF75B240F3A46798E349E18B6BE2496AED1F82A7F4E680961BE04325A6C5C67E809F9967744488A72D117F9F28D48FACFAAEE5FE4FA16FEC615E948699047636DFB6EEA304E381BD80B37A6815C401D90313BE97ED23C8FC7B2B550980BDA8474581BDDE10EA3700BDA5F0A638E794AF2E670BE4A6755F895F283C8E5AE0F95EB2664D03FB394E5FE7110A1C4489148DA933E1E8E61648A616F345F2925F5181E1601EA0345384BD7495A74097DA61C80147702A400E142C8F14132DC41898E5D848EC613C29A73FFEF6693C2763EED59F3F8AAA39DF1F39701AA3A27CF710E4D36698D25CCC7995BF4284BD6FD1E8BFD1086101FBF844AD8759AB338401961CDE5958D4ECAF447D25E34DA0887C65544EF5D80B895D738EADF3F268D64295C4EFE81956286A51F006C016D8334785A3D96DC57AE6DAD11B92A6FCE935A3247A5778F23C3E0E4AF36266D8419BE114AA7AAA30C4C44DE1B80001EAA771B2F1B199B9E315B183E5C2F44A0AB32D1E0BED3770DA4BB6E8141B7DDFA57C97A5EB9AB9378B82E1286F84FD1C54E86BC24C0FBB88C102AC217B2A0906DDF821FB2929D99C5F60CBFE8798F7C039C963095154229F4F757AA30579C2BE47F20A37A91E54AEF9B050F2CCBD56FFABF420D3B31FD6F8D3DA5DF3E953B4745FEBA885FDEACD107ABDDD26715F5B8515EAE8F4CFE74835BD5B3BB56E7FD22B8D32E3BAF2BBA091A69112A1D5B4F1183DE07FBC8459F5AD55EFEE30DCCD07C4D91609ED754DF4DDC2BB34EC56D2E29374D655BC393873CFB406DFA27BFC1249C8EA1ED62AB106B7C76C8EF02BB4218FACE0085BF71EBC08CDF0AFD5878D46D91695DB3CDEC4BE44E2C0C4BD9553D22638F87753FE295EE3F136C17906AD58DC5B73E7DF06F36110D483F9D184BC16799059A073016D6ED3D84D2912F8AB346A0BFE73D7CAF49BDB6864BDD0C84F320510A9314F4E42114ADBF8F5F5CD9F2BF3418D9B673B46B6842948CEB10DF73E0FFB5091FA4D395F22F4BF9B4BCB3E653EF294EADC342BCB822136BDD0BB29B5F13B9CA06573649DC3C087EF7122E114B541B977583A2BFDDA22CC1A334EF59DC3FA6456131C87278694E3123C9A21DA84388E6166CB3E571F2355787A2AC0651F654D2131B48C14BEE6F94CC861D1CAC79253A54FEF8D5777C9A7CC5FA276DC52F62D9919F6C2EEA947350A1146E5A8F44F960243761510C88946E8F4AA1E071B95EF4E0FA53C91FFEF5DDF1E19DEDFE6D263290B6B710D514B749998A7B499BB267B2BCF26B7092CC58D27530DDF63F72C7764773970F9491F32D17ACAE7506FA8AF9954F44BBF1EF2D12E4CC2EE6DE38889B7D02007FBB10F8B1FC108A78B15FAF1AC6717A5DF01707F3A5A7127C415E2B1EEADD2BDA57AA0DC9786CD20DEC3198C7E6B71ABE088C466029F67C1387193A28976E3E306363B3581F6D7D6B16D64FFD8B9F9C453DDCE1127E96730EA53B6746D713B5B46123020FA62DDB96DAFF20AB482FEDA8BE8252D1C39ED8384C5B4D5A59E1E30FE25D0C12DFA1DD394530B9D81B8A2D7A92DCADE982491038D30D5A9D935D0CA8D7EC3597EECAE87E4AD18B32A3BC19D940AEEBDC8B82C1769C0FE936AEA6814D0F78C6F94632079BA6FC0AE22FC605C2EB49B3C872BE929A9A7301C158CA4BD237F65F8500D078B5EA9400A79DECDFA3B293A044D6B35CE795F47F9CA96C57D09F784381BA1128B081858EB4986C6B1A1149E794DFE42164E37486A840BF41E5C253A38F07547E0A40EFB29749C14B18ACEEEB47240D0BC5B383DAA88908910E20C15592BB30E283864A380DF6DB0E50D0F9994E14C08A4216E79C7BFF6074D6BA17BA53E11428D22B56C0EADA3D6D1F3B03D720C5A6C2DDEC008218FEEAA6CE7C3A8EF159B953F0E7982D74D2A0C4894F2CEE1F68FE98F76A9C0692E8E24DD8EC4254B5805E86E18B5A6CCA9A0E0C3EC296559FD10EB75E4E53EE15182F7E2222F307AA286F4A4BFDF846B06B486907E32BEE921BCACE4CFEF1B417DE8165970D3BD20087F4DEAF6D6A00C030F27EE93B3BA8ED42220C7A306B86B9103ADF830B7F06BDE476278D22E9720C689184EBB8223D4115A027EF45EE5279D7800958C1F8DF041291EA83593635701D96E4ED5AFEABC689A8464DD4C12B42D8C8479ACC6A0F976A05E9A2F3412653073BF6404857F3F63A4889DC9B151FE11704895C998D304B6AA67CE2AAD841B85E1FEC277AE5AB02AD3D38E6F546542DD074F86C9487050905BDBFB4A00687756A7642D544FBEEA447A0975585298BE51DB7B3389B6089C58D8AA2CE28442FD29B1314A416F1D1C864CAF64D66D43B7851D79B0CC65945C45C35A4145EB14D6A59F520975434BA0F613C3580921CC2E556C96267AFDED872A742ED1155A84F79312E25D44D6AF20E0C28B92A0DE3B23F074EE7799EEEABF3C37254A06B53025B3AC706ACFB1F403757413252563CDD2A568E01FE59608F22606049088ABE81FE2752AE1F7C14CAAFB7FE7F0EFCC3C460E70E4470BC828431B544C5D3A2F5B53D534E8ACAEA7B8C72211FEF033C92658A26F7BB18DA22783540C50F5CBA7C7FEFEDB90E2D72A5572ACDF9A21B1FE2D60CEEAD4045EAA363E57ED01E5824B2CBDB9CE8472C35BA3C65BAA515EA18329F4E7F50E814B75EC69E5FB06DAD1D53F33493AAF395196CE302B5362BB08A5351F2A0D13386869A269D332FEEC8519D0CC58F5CA7803EBDE2194DCD22F597E3BA594C542C28C3A1514856B5A97FCEDD2AF743DB10AD905915986ED8D5857EB54690381D1A43FED460376B232BDEB45CDB752B240A6A2EDBB92618BD7444E7BAE083BEB843DB50B77E46E3EE95D2FBE589D0F84289BCC25B779EA07CDFCEDC12E5BF0871EB97820B778DFB4CEB6B5D428C35764ED8011BE2D320428C99664DDD7374AA2F1ED0D66A71EF004FB7C54D02ABA683578856ED117518ACA91403740C083A22C5298A124EF4AE5AF06EF3B91C27E5FB36D452D811B6E7CDCFA14AB8238BC7725C63C8A9AC875E3A65D67123C5684FFA84B4C4AF3456608B33EAA2DDDF10F2A9B3F8656D3E781382D4A5B4C442440D046CD14A7B9DFC4CEE2F98CB6BD41569B5233E8C812793E76C546ACB28F4AF47742C6498013DCC20BE668249A7C4D3DD499D354091A84F5A2DAA773D8978B356D7A5D908834307C27B8A359FEFCFBE21DE75E0703DAF90F69D1BE987E572BC6662DD00402672F8E85CA94CAF8639E5375CC01F9445B5BB6484CE11DA18682B41A7B88995C314C8ED8E473F516512D1C0E45ACC8C4B62A784056F0596E14F97858ED015838836E3EA0FCB414AB628C857C1E05CB4AE45DE1C114B396FC9DA55A6733D6C0571E76D05666A59A282D51BC192EC61D79CDB8FA23FB9FF5C1E9BE0C19A7509A9AA6601717852FA5AFC10D5B8ABB927115D857627B86721990440E31778E0DEB2ECA17B983E7DEDCEF7B2113DD98F3B0EAEE730A2496CB7FBF754A3FBD3D462378EE89A6DF5186AC93AA5897BCA410B0795E8028D8F6681540A5B1D55C1C5680C2C45F39FE2503732291D56E0DD3868627D0E69109B19291F16653FF7EE95CA8308E577449955376F6ACEF9F39A5F27DC310B7D32F93F4ADF3FA1F4A5A84102F04142CE82D2C4BE73CBF9C87135D6398A6B56B7CF5F53C76B66A13D23ED26538AF19B7E6E6E280D33A5BB028C6A10F6F7C24E3D2BACBBF36AE48DB0FA74079632096F6F839F1EDA0B1CD4E5BFF943B194C1CB563BE2AC9DEE964CD03EE03D087A3CE0DD357DF03068D4EB04EE4C31E4367735922B0AD7822884CCE9635D97DED1A65C39EA63FE747C57F6C75FC9349991A5EBDFE12496AC54271A0CD0E1C08A2973ABF3F9FFC3FD1FED48C27271B2FA7030B6AC62BCFBEE742A33D535D375BA0B2A86DECC7431052A8D1EEFED2A0051B220D65CF8193360E184E11279C86DFF0D3AFDF062E2184FEE57E602E5C503AB22144F6D23EE22261F053AAE61D79773AD770099BCB95E2F24C5CB34790D157F227E9A0B67A917CCC6CC284183C2F79A5429FDF9A1560046E00DA6F69B7D67B718371BE2A289F2EBB81C90046660BFC83D1296906307EA206E70136C4D161FBCD76EAFAB403D2F9BABB6AE14294542D11A6066E3D556346001F4F7020FD2FE32439D503782DA672FA54F69240FAAD741EC1920A5B49E59855ED46BFA390A9CC73B532E0AE5DBB2ED454314C3F6A974E9A49B050AF33DFF4DB9043166F37BD78816129DE29199AE77476B4EA654256502049F49C7C2252A4CC8DAE23B7A7F9926E50BD4697F3822195C2C9DFBF1BE8D2319543E33753878412F3F501BD5C5282DD7AE21B36CD2D2BDEF4D8A13E0A95B2AAE45CE359B8084D3955C7C7E50B547529C6C54A62B134972D70FEFBC78C5A73383BB7739D8F7281868A08E9EDFEA962311D63DFC7A053195899C2023854F9367C4574DDCC13367C4820DA01449DAC518E48A810F06559453F70BBDE01450B22A83C80FE4B0FAFAAAD0B55A02C86A9DAC4B18BCB5619253BAC96EECC763BBA769DF1397BCA9E644A582DB64027C47FFCFF80F14C8FC22A58495165100833465010F144E51A1EAE85B5617E6F88B12CF775FBDDB548E89AAF845D26F5E18823BFE1CA14648EDC301E0E9D912A9DCBBC3BA4B3C532E82E96F08E1ED9357BEEF1EE0B43688B29B9933A2A00401FAE410CF3FCE719F2F95D4014021FA04363BF0AF4AF60BFF3CA973E098F61C6D570B6E89650DD593BCDD5D44697EC6B1EF552B133824F51F87C736E242BD6D7E3FCCE6FD5CFB2D50948CCD0325B9DB741778F42E72A6DA51BC65F44118BE6D157E36F392FD4F0104745AE45D0EB90B37C41C0D07DB06134F19D6A1357265DD40FD6F63E34B095AA41A3514B476CC865AC97707E32990DCAE9471D799156477BDB7AFD53F418D805DA3CC7AB24E7DDF157DD6051E9F6F988643A6E9FBF21AFCC3E1EC36262B194FFDDEFD5CC655EC07863389B5239381B701A3369D7B665A311B4AAE8E199CDF09CD6895DD350A8E672E1E60D4DCAC89A6487BC200DE59713594D33CC6D9C566C3F3AF1DDDFB087102837F2B5817A097F232108AF2BF002D9A77A92D817504FE9C2BCB7B554250EAFB8377ACCA92AEC5D4C09FCF3E05F7B6FC183BD7307F98F63D58614B2662B6C9547A4260F0DA2816EC8D555B5F0666D7340EE3F4A076C537D3CB60E9DBC65DB2B52BB9939F6100159D6135001BA89CB6DEF80E1F0AD7FE4396CD10805371C2D381A1AD3623B0A2CA01C0E8143FDA3A00525CD1525553B32D42A4A30C724FBA02D726CCBEF3E5859AD20F6D57F67BCF878BD8E42528F5D9CC025ED0F4A0DC6DA3F2312354F10C09C4747BF11D93A63A07917F76585D8337285064E95CE7EBD67EA327073500D9EE7675EDA92CD10A2B37984A3DB2FA19915B85EA5ED624BD390C5450383CC70A21C7092E8CE67197F55BBFEA93F6C627F34E8C48A15CC6C4970887649EDDDBD957554D5C7F30813E4D80BAE34FDBF277BF296B5B7411854C2C853DA8C7084D6765BD61AFC79E1C0E6648BC3F199BD22FACDD761537C890EE2B4FE4F8581D11A6F1BA4E3BBF03B35EBB33727E1858C89DFD15E17C3CC7F1980D1BF4274CE9C46C47177B1401330EECE4026F2EDC4E204D1E7F407ED29AF54B1D4A1EFAF9AA3F1C5DEA6F4C9BCCDF868B8D2EBF5A81B500F6E33B5459FB35671B66FB09E7D19F5F0640613DED7C93BB49624342952073910F9F95899AD8D901A2EB2D0C859B14AEEF7079CD6624949C84C09C27CAD9C5CEF786E48BE30CBD125D76C67CACF949ABE0E7E2A050D8B406786B84053C03768D41DA527E87599A88E5FE840FF6EB35749CD19C985C81CA0C501E277E659C45627DC0CB673B9CCFB99FD4C818AC9A145CA97CC8E3F21E790DEEB4D6770F4531963C4DF5475D1877EEA8392AEB5FE6DF624312FAA8BC8784181C3B16C50DCE3249CEF6290B47D1DE2F96BCB773E239D231B78F4A036D6EFCB5ABB83CF38161D56DE6ADB213264203AC44CBC2671A2A0B7C5CE3C0FE17C109FE1941040F2AAC5062C2B6350B39925FF638831FF2C88D4D9E9220994133F924A6C60AF43D8E5E8E2A397E730CBFD77FA34C2CC19B578F91F7747EADE9AF23E8DC4F73A652973DBE507D7EC807F6C0ED041D2AB158E3E3AFC645EFBEB0565115092DE584C023BDDF94A6A40B75CF9576D97E43E7FDE8953C24D37E7CDF89D735657246744F76773C54539896013896BE8EA8AEFCB81035F41FFFE70F91554102AC34176269CC789626557159413A527D21DA5E59433E888C419E41435941C63E76F05671C5F57BA72D0948B1B5CAD20A34565FA55F451674E141E627369B3C60C241AA5AFE7BCA98DF71AE797F3061029F5A4B7E59B550F0F7B132E5289F2D8A53116659BD062E4EDE1404DBF8C43C1DE6EE97F63FA048185D69950FFA3B032536DEAD012F26571D1A5FAB15649B2298437131757A7696A68DDD7AB61E598274FFEF5D889634A66C560D660F231DBC58F64FF22A3642311DA6B131BB2C6D085DE9F4F7D4B54BFF534DB6D0FA0F72C86BDEA47740403E0232BD90566DADE8ED3FA4E6A33C2F91DE0300333B37F97FC9E397FD0FFD965C68FAF8864BFDDF4F7E0DD02219858EAF3B2D2F2DB217FAE39DAC3E86A91E525D591EE9AFF4F5C410A07F17DACEB8EDEB71FA1FC279664ABFE13C4237C35514EB50CA4AB5AE3986CE2BD8AD31B5334B618E5113F889C1C6BB4CF0EC2AC4101C324E817376E25246CC057E458E1912E73149B147D3C0EA81CD18C7497D9FA56F30050A20854F544CB34D7631FC2F94785809DEDA5FF86AC6101CAF01A94EF9D585D661C61E7655BACEB33E801525EF9210B35D6FD0BBA582221073BA707E47E3B413A64ABD8BB1C186ED3D21F6B0B62A70A75ABAC6DAA5002BF7DBE87356030B088EC2A3EF8B82CA8C98CEFBE5BE6AF6A4917DB1B56E0B4EA1B5CCF9C8E5AA442250D031D7DFD54B91A9299F49AA8B701A12EECE925FAB65E14476B9116D0AC5C0F03139DD7D8AD44CADDF64BFBDEC4F0E9B4F0F2A7D650F63DDE42202B3245F5BC9732FB500352A6ABD49B6F23C1AB23263F35F19DBCFEC6B39FDED27AC25B5C2B0204F9E9076379B2613877DF518417D74E53636A0E3B14749BFFC521C69D2726B7EDCD7785F0F58ED81B05F9EB607D34A93F4952521AF780399161C4126E7C9C985CC047C30B11C9F308C10DBE0CB931C867D610CA0937EFF6A88A4EA23C363CBBF217C76ED9830F1DAE0E9CD198901A518F90393D62E65CC574FEDA6978B96A1EFB321A5A4EFCE2DBD202281A06F1815FE3C452E2B85E47E5D84690B398FEE3BCCD2BA17C9A9BABA648BB97FBE047B07D21CAB28B5F00C80428F7A90D1F1CF9EAF348BC567E871A7A93632DC1B20F980E623480EBAC04F9B766CB1228C43A7401BAB5B151E77A59C07B4D8154E91C6DD36A56181567FB852BEC318B77EA6FE29E6A95F999C331F1F154C72FC262E942BF687D0023C425EF65282B796118B4864060DABD6549307A35F27A98710FE2FA05A64D51CCAC056B36D169BF02C2212E3C61F96D422FF437C59EB6D055FA9374CC06CA319BC62219B681217E88375FD487D95752B9B335BB05429E635D49902232DC1B7876B5D66DBC832FF8769CD4F9E8549E0C7668FF2BF837F1EAA70F93FA608DCBC35218E1067376D616C18F5D864DCDB62C4AF735DAB83037B2648C702C8375BB0427EBF6B379E3D08FF848C573A5AEEB4F5529C21FA547B03E9585A8DD764F0BD520A02B50D917999DD4617F09DFF5F2A0DFEB99BE05038A434982411B9885DDF0696112EBFEE9983D75154672B23B45155879AB2EE75506F0D85A003086A2E4E53CA274B5EA355DA9C1676AE6DFEB8AB3ED8200BA59297AB838F191ACCD7E9017E5B17290215EAEDC0D63CD0EDE0ADE8412D2FD41F5DF515F17A50D0E293FBCD3CD910F17E200B5D7F5B3586BA321C9B7AF5C2BA1AC7E69140F133A6C733165F807B2F36B8380A12F3CF7B19F470E4F778D9CD693DB64FF74688C6BE9E82076974FB0BEC1BEB90FA4648D1EFF3B8C49254D24456361127A419F48943B5F0CD717DD855FD7133F737FC8DF1FD1CD23B9E0861E1124F1D1C7058FCFE2641E2DD243C7FDAE195B92F29596BA82B32F3040D9AD1B06960960D4409DF57BF24E9026B269A56DFCCF449D2FD345034969B662D2CF25FE42F352CE3AE2AE1034C771BC1D7D26B861D05B4D746F5500869153BB02DDCB4BE3F1AE8B809637F7272EB64D19D1773873153BF86D2C5E5EE670D097C72FFB3771F8FC685AA1A0DB43DC68DE7DB43337A993B88DDD7FFA5B770CCC7D9FA7C740E6E7132630F6F68575B0BD65201EBD50DC5B5328E284B70CCE9EDE8A77026DCACCBF40E11588ABADA6B9A6B6DEB62F94469E433DBA179F450E64BB2ACBB5E734A8E3E95DB5861C42884786C292CE6DA6E970B2A7B50E2136FCEBC439316B615F8C2011396A5707A77777C4F60F9BA5DA1415B1959FB1F56576E39227491E509753FDBFAAD7741490D2781947D29086DBC1D4A50DF3DD45829DF87AE391FF9725CF5ECB183991EAB89B5403E66FC9862C26BE0AD1DBDD295C9883D79138B42E6C555722D978C17A102E6D13D59885622C1BE024AC13168BEF76A18B3C3AA0D9A6951CCC7C7AD0F8BE254DF2A862EE8442C54A8BFF1916332B813E5A1B7F75461F3A0A30748787F57D75EF6468FCEDF5E91E3F5D565E4F82C8BB00309DA9114EEAB003C387C49962801F33F1065F199F684E1C50DCF59E1431C008E1103888FEE4F37E5A5139484156F501C64B90D5BF7D165E88BDC4AE1D16E27DA00DDF1672BB13D3A725DED7BBF33F3DE936D4FC147F7B8CC575A5C53A4527EB582E71D6B2024EAD797793E2242BEE4D0D58C3643D3001F946ED8A8EE702A9327F486E1367635F2B0E005AEEEE0E73D4C7111C055818333337C30B9788A31E71922B2788AF8759B20B197C24FCF2EC791D8EBEF35EC352EC362B5BE60F457BDA6ACFA411ABE19BFE0804AB75A1D28E208A09955FF94FFE4D84CD31E54F393E294CC655845A95B8728C418BD6FC5B935C7E51E0FE00934AA90E761E1EEE7AE7D50CE1F4CD996336B50DBA39996A78EFB53E25DF543915B9E911A51A8A0CEAD25C8AA25A066A19E58FE1B901037E4BA5B6C1F2682C15487412606754636CD679B7CC46978C396D9A400000006A271E7B4D0460862B320B1F62E7A7FDED3B682530A8979CB8D4C39AF8DB986736D8F8D0D9815521B792FA800FCE8D40928A6A3A5756FB6732756E6B7CCC8DFF</RefreshToken>
+          <InputAnchors>:</InputAnchors>
+          <AuthenticationMethod>Basic</AuthenticationMethod>
+          <ExpiresIn>1694045582788</ExpiresIn>
+          <isUserLoggedIn>true</isUserLoggedIn>
+          <FIPSMode>false</FIPSMode>
+          <TenantType>Multi</TenantType>
+          <SearchKey>
+          </SearchKey>
+          <IsOnEnterSearch>false</IsOnEnterSearch>
+          <Tables>:table</Tables>
+          <NewTableName>:table</NewTableName>
+          <InputAnchorLength>1</InputAnchorLength>
+          <CreateDataset>
+          </CreateDataset>
+          <CreateOption>
+          </CreateOption>
+          <DatasetId>f62361d1-05fa-4d9a-ad9b-c6dd8753b0fd</DatasetId>
+          <DatasetName>NewDataset</DatasetName>
+          <SelectedIndex>f62361d1-05fa-4d9a-ad9b-c6dd8753b0fd</SelectedIndex>
+          <Secrets />
+          <FileAction>Append</FileAction>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <SdkSettings Manifest="True" Language="Python" PluginDir="PowerBIOutput" Transport="arrow">
+          <CustomParameters>
+            <Version Value="2.1.0" />
+            <ToolVersion Value="3.3.1" />
+          </CustomParameters>
+          <InputConnections>
+            <Connection AllowMultiple="True" Label="" Name="Input" Optional="False" Type="Connection" />
+          </InputConnections>
+          <OutputConnections />
+        </SdkSettings>
+      </Properties>
+      <EngineSettings EngineDll="SdkEnginePlugin.dll" EngineDllEntryPoint="SdkEnginePlugin" />
+    </Node>
+  </Nodes>
+  <Connections>
+    <Connection>
+      <Origin ToolID="1" Connection="Output" />
+      <Destination ToolID="4" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="4" Connection="Output" />
+      <Destination ToolID="5" Connection="Input2" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="4" Connection="Output" />
+      <Destination ToolID="9" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="4" Connection="Output" />
+      <Destination ToolID="15" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="4" Connection="Output" />
+      <Destination ToolID="21" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="5" Connection="Output26" />
+      <Destination ToolID="30" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="9" Connection="True" />
+      <Destination ToolID="12" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="9" Connection="False" />
+      <Destination ToolID="24" Connection="Input8" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="12" Connection="Output" />
+      <Destination ToolID="13" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="15" Connection="Unique" />
+      <Destination ToolID="18" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="18" Connection="Output" />
+      <Destination ToolID="19" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="21" Connection="Output" />
+      <Destination ToolID="22" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="24" Connection="Output9" />
+      <Destination ToolID="28" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="28" Connection="Output" />
+      <Destination ToolID="29" Connection="Input" />
+    </Connection>
+  </Connections>
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="True" includeToolName="False" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <RunWithE2 value="True" />
+    <PredictiveToolsCodePage value="1252" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="True" />
+    <ZoomLevel value="0" />
+    <LayoutType>Horizontal</LayoutType>
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>SharkTankIndia_DataPreparation</Name>
+      <Description />
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+      <Example>
+        <Description />
+        <File />
+      </Example>
+      <WorkflowId value="31a5a9d9-3eac-4b54-bf69-f24cc7b93017" />
+      <Telemetry>
+        <PreviousWorkflowId value="7f44cf67-cf29-4f88-8c68-5ef3ceab077e" />
+        <OriginWorkflowId value="41606dd4-cc1d-442e-bbfc-4e77959dbf68" />
+      </Telemetry>
+      <PlatformWorkflowId value="" />
+    </MetaInfo>
+    <Events>
+      <Enabled value="True" />
+    </Events>
+  </Properties>
+</AlteryxDocument>
