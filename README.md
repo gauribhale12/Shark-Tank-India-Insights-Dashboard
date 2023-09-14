@@ -1,4 +1,4 @@
-# Shark-Tank-India-Insight-Dashboard
+# Shark-Tank-India-Insights-Dashboard
 
 **Data Transformation and Data Cleansing:** We harnessed Alteryx's potent data transformation capabilities to ensure data quality and consistency. This encompassed processes like data cleaning, standardization, and enrichment, while also addressing missing values and duplicates, culminating in the creation of a reliable dataset.
 
